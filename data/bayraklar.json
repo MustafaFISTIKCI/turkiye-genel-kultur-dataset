@@ -1,0 +1,1787 @@
+[
+  {
+    "countryCode": "ad",
+    "countryName": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/andorra_ad.svg"
+  },
+  {
+    "countryCode": "ae",
+    "countryName": "Birleşik Arap Emirlikleri",
+    "capital": "Abu Dabi",
+    "continent": "Asya",
+    "flagPath": "bayrak/birlesik_arap_emirlikleri_ae.svg"
+  },
+  {
+    "countryCode": "af",
+    "countryName": "Afganistan",
+    "capital": "Kabil",
+    "continent": "Asya",
+    "flagPath": "bayrak/afganistan_af.svg"
+  },
+  {
+    "countryCode": "ag",
+    "countryName": "Antigua Ve Barbuda",
+    "capital": "St. John's",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/antigua_ve_barbuda_ag.svg"
+  },
+  {
+    "countryCode": "ai",
+    "countryName": "Anguilla",
+    "capital": "The Valley",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/anguilla_ai.svg"
+  },
+  {
+    "countryCode": "al",
+    "countryName": "Arnavutluk",
+    "capital": "Tiran",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/arnavutluk_al.svg"
+  },
+  {
+    "countryCode": "am",
+    "countryName": "Ermenistan",
+    "capital": "Erivan",
+    "continent": "Asya",
+    "flagPath": "bayrak/ermenistan_am.svg"
+  },
+  {
+    "countryCode": "ao",
+    "countryName": "Angola",
+    "capital": "Luanda",
+    "continent": "Afrika",
+    "flagPath": "bayrak/angola_ao.svg"
+  },
+  {
+    "countryCode": "aq",
+    "countryName": "Antartika",
+    "capital": "Başkent Bilgisi Yok",
+    "continent": "Antarktika",
+    "flagPath": "bayrak/antartika_aq.svg"
+  },
+  {
+    "countryCode": "ar",
+    "countryName": "Arjantin",
+    "capital": "Buenos Aires",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/arjantin_ar.svg"
+  },
+  {
+    "countryCode": "as",
+    "countryName": "Amerikan Samoasi",
+    "capital": "Pago Pago",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/amerikan_samoasi_as.svg"
+  },
+  {
+    "countryCode": "at",
+    "countryName": "Avusturya",
+    "capital": "Viyana",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/avusturya_at.svg"
+  },
+  {
+    "countryCode": "au",
+    "countryName": "Avustralya",
+    "capital": "Canberra",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/avustralya_au.svg"
+  },
+  {
+    "countryCode": "aw",
+    "countryName": "Aruba",
+    "capital": "Oranjestad",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/aruba_aw.svg"
+  },
+  {
+    "countryCode": "ax",
+    "countryName": "Åland Adalari",
+    "capital": "Mariehamn",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/land_adalari_ax.svg"
+  },
+  {
+    "countryCode": "az",
+    "countryName": "Azerbaycan",
+    "capital": "Bakü",
+    "continent": "Avrupa / Asya",
+    "flagPath": "bayrak/azerbaycan_az.svg"
+  },
+  {
+    "countryCode": "ba",
+    "countryName": "Bosna-Hersek",
+    "capital": "Saraybosna",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/bosna_hersek_ba.svg"
+  },
+  {
+    "countryCode": "bb",
+    "countryName": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/barbados_bb.svg"
+  },
+  {
+    "countryCode": "bd",
+    "countryName": "Bangladeş",
+    "capital": "Dakka",
+    "continent": "Asya",
+    "flagPath": "bayrak/banglades_bd.svg"
+  },
+  {
+    "countryCode": "be",
+    "countryName": "Belçika",
+    "capital": "Brüksel",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/belcika_be.svg"
+  },
+  {
+    "countryCode": "bf",
+    "countryName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Afrika",
+    "flagPath": "bayrak/burkina_faso_bf.svg"
+  },
+  {
+    "countryCode": "bg",
+    "countryName": "Bulgaristan",
+    "capital": "Sofya",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/bulgaristan_bg.svg"
+  },
+  {
+    "countryCode": "bh",
+    "countryName": "Bahreyn",
+    "capital": "Manama",
+    "continent": "Asya",
+    "flagPath": "bayrak/bahreyn_bh.svg"
+  },
+  {
+    "countryCode": "bi",
+    "countryName": "Burundi",
+    "capital": "Gitega",
+    "continent": "Afrika",
+    "flagPath": "bayrak/burundi_bi.svg"
+  },
+  {
+    "countryCode": "bj",
+    "countryName": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "Afrika",
+    "flagPath": "bayrak/benin_bj.svg"
+  },
+  {
+    "countryCode": "bl",
+    "countryName": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_barth_lemy_bl.svg"
+  },
+  {
+    "countryCode": "bm",
+    "countryName": "Bermuda",
+    "capital": "Hamilton",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/bermuda_bm.svg"
+  },
+  {
+    "countryCode": "bn",
+    "countryName": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asya",
+    "flagPath": "bayrak/brunei_bn.svg"
+  },
+  {
+    "countryCode": "bo",
+    "countryName": "Bolivya",
+    "capital": "Sucre",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/bolivya_bo.svg"
+  },
+  {
+    "countryCode": "bq",
+    "countryName": "Karayip Hollandasi",
+    "capital": "Kralendijk",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/karayip_hollandasi_bq.svg"
+  },
+  {
+    "countryCode": "br",
+    "countryName": "Brezilya",
+    "capital": "Brasilia",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/brezilya_br.svg"
+  },
+  {
+    "countryCode": "bs",
+    "countryName": "Bahamalar",
+    "capital": "Nassau",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/bahamalar_bs.svg"
+  },
+  {
+    "countryCode": "bt",
+    "countryName": "Butan",
+    "capital": "Thimphu",
+    "continent": "Asya",
+    "flagPath": "bayrak/butan_bt.svg"
+  },
+  {
+    "countryCode": "bv",
+    "countryName": "Bouvet Adasi",
+    "capital": "Başkent Bilgisi Yok",
+    "continent": "Diğer",
+    "flagPath": "bayrak/bouvet_adasi_bv.svg"
+  },
+  {
+    "countryCode": "bw",
+    "countryName": "Botsvana",
+    "capital": "Gaborone",
+    "continent": "Afrika",
+    "flagPath": "bayrak/botsvana_bw.svg"
+  },
+  {
+    "countryCode": "by",
+    "countryName": "Belarus",
+    "capital": "Minsk",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/belarus_by.svg"
+  },
+  {
+    "countryCode": "bz",
+    "countryName": "Belize",
+    "capital": "Belmopan",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/belize_bz.svg"
+  },
+  {
+    "countryCode": "ca",
+    "countryName": "Kanada",
+    "capital": "Ottawa",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/kanada_ca.svg"
+  },
+  {
+    "countryCode": "cc",
+    "countryName": "Cocos Adalari",
+    "capital": "West Island",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/cocos_adalari_cc.svg"
+  },
+  {
+    "countryCode": "cd",
+    "countryName": "Kongo Demokratik Cumhuriyeti",
+    "capital": "Kinshasa",
+    "continent": "Afrika",
+    "flagPath": "bayrak/kongo_demokratik_cumhuriyeti_cd.svg"
+  },
+  {
+    "countryCode": "cf",
+    "countryName": "Orta Afrika Cumhuriyeti",
+    "capital": "Bangui",
+    "continent": "Afrika",
+    "flagPath": "bayrak/orta_afrika_cumhuriyeti_cf.svg"
+  },
+  {
+    "countryCode": "cg",
+    "countryName": "Kongo Cumhuriyeti",
+    "capital": "Brazzaville",
+    "continent": "Afrika",
+    "flagPath": "bayrak/kongo_cumhuriyeti_cg.svg"
+  },
+  {
+    "countryCode": "ch",
+    "countryName": "İsviçre",
+    "capital": "Bern",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/isvicre_ch.svg"
+  },
+  {
+    "countryCode": "ci",
+    "countryName": "Fildişi Sahili",
+    "capital": "Yamoussoukro",
+    "continent": "Afrika",
+    "flagPath": "bayrak/fildisi_sahili_ci.svg"
+  },
+  {
+    "countryCode": "ck",
+    "countryName": "Cook Adalari",
+    "capital": "Avarua",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/cook_adalari_ck.svg"
+  },
+  {
+    "countryCode": "cl",
+    "countryName": "Şili",
+    "capital": "Santiago",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/sili_cl.svg"
+  },
+  {
+    "countryCode": "cm",
+    "countryName": "Kamerun",
+    "capital": "Yaounde",
+    "continent": "Afrika",
+    "flagPath": "bayrak/kamerun_cm.svg"
+  },
+  {
+    "countryCode": "cn",
+    "countryName": "Çin",
+    "capital": "Pekin",
+    "continent": "Asya",
+    "flagPath": "bayrak/cin_cn.svg"
+  },
+  {
+    "countryCode": "co",
+    "countryName": "Kolombiya",
+    "capital": "Bogota",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/kolombiya_co.svg"
+  },
+  {
+    "countryCode": "cr",
+    "countryName": "Kosta Rika",
+    "capital": "San Jose",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/kosta_rika_cr.svg"
+  },
+  {
+    "countryCode": "cu",
+    "countryName": "Küba",
+    "capital": "Havana",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/kuba_cu.svg"
+  },
+  {
+    "countryCode": "cv",
+    "countryName": "Cabo Verde",
+    "capital": "Praia",
+    "continent": "Afrika",
+    "flagPath": "bayrak/cabo_verde_cv.svg"
+  },
+  {
+    "countryCode": "cw",
+    "countryName": "Curaçao",
+    "capital": "Willemstad",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/curacao_cw.svg"
+  },
+  {
+    "countryCode": "cx",
+    "countryName": "Christmas Adasi",
+    "capital": "Flying Fish Cove",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/christmas_adasi_cx.svg"
+  },
+  {
+    "countryCode": "cy",
+    "countryName": "Kıbrıs Cumhuriyeti",
+    "capital": "Lefkoşa",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/kibris_cumhuriyeti_cy.svg"
+  },
+  {
+    "countryCode": "cz",
+    "countryName": "Çekya",
+    "capital": "Prag",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/cekya_cz.svg"
+  },
+  {
+    "countryCode": "de",
+    "countryName": "Almanya",
+    "capital": "Berlin",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/almanya_de.svg"
+  },
+  {
+    "countryCode": "dj",
+    "countryName": "Cibuti",
+    "capital": "Djibouti",
+    "continent": "Afrika",
+    "flagPath": "bayrak/cibuti_dj.svg"
+  },
+  {
+    "countryCode": "dk",
+    "countryName": "Danimarka",
+    "capital": "Kopenhag",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/danimarka_dk.svg"
+  },
+  {
+    "countryCode": "dm",
+    "countryName": "Dominika",
+    "capital": "Roseau",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/dominika_dm.svg"
+  },
+  {
+    "countryCode": "do",
+    "countryName": "Dominik Cumhuriyeti",
+    "capital": "Santo Domingo",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/dominik_cumhuriyeti_do.svg"
+  },
+  {
+    "countryCode": "dz",
+    "countryName": "Cezayir",
+    "capital": "Cezayir",
+    "continent": "Afrika",
+    "flagPath": "bayrak/cezayir_dz.svg"
+  },
+  {
+    "countryCode": "ec",
+    "countryName": "Ekvator",
+    "capital": "Quito",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/ekvator_ec.svg"
+  },
+  {
+    "countryCode": "ee",
+    "countryName": "Estonya",
+    "capital": "Tallinn",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/estonya_ee.svg"
+  },
+  {
+    "countryCode": "eg",
+    "countryName": "Mısır",
+    "capital": "Kahire",
+    "continent": "Afrika / Asya",
+    "flagPath": "bayrak/misir_eg.svg"
+  },
+  {
+    "countryCode": "eh",
+    "countryName": "Bati Sahra",
+    "capital": "El-Aaiun",
+    "continent": "Afrika",
+    "flagPath": "bayrak/bati_sahra_eh.svg"
+  },
+  {
+    "countryCode": "er",
+    "countryName": "Eritre",
+    "capital": "Asmara",
+    "continent": "Afrika",
+    "flagPath": "bayrak/eritre_er.svg"
+  },
+  {
+    "countryCode": "es",
+    "countryName": "İspanya",
+    "capital": "Madrid",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/ispanya_es.svg"
+  },
+  {
+    "countryCode": "et",
+    "countryName": "Etiyopya",
+    "capital": "Addis Ababa",
+    "continent": "Afrika",
+    "flagPath": "bayrak/etiyopya_et.svg"
+  },
+  {
+    "countryCode": "eu",
+    "countryName": "Avrupa Birliği",
+    "capital": "Brüksel",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/avrupa_birligi_eu.svg"
+  },
+  {
+    "countryCode": "fi",
+    "countryName": "Finlandiya",
+    "capital": "Helsinki",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/finlandiya_fi.svg"
+  },
+  {
+    "countryCode": "fj",
+    "countryName": "Fiji",
+    "capital": "Suva",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/fiji_fj.svg"
+  },
+  {
+    "countryCode": "fk",
+    "countryName": "Falkland Adalari",
+    "capital": "Stanley",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/falkland_adalari_fk.svg"
+  },
+  {
+    "countryCode": "fm",
+    "countryName": "Mikronezya",
+    "capital": "Palikir",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/mikronezya_fm.svg"
+  },
+  {
+    "countryCode": "fo",
+    "countryName": "Faroe Adalari",
+    "capital": "Torshavn",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/faroe_adalari_fo.svg"
+  },
+  {
+    "countryCode": "fr",
+    "countryName": "Fransa",
+    "capital": "Paris",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/fransa_fr.svg"
+  },
+  {
+    "countryCode": "ga",
+    "countryName": "Gabon",
+    "capital": "Libreville",
+    "continent": "Afrika",
+    "flagPath": "bayrak/gabon_ga.svg"
+  },
+  {
+    "countryCode": "gb-eng",
+    "countryName": "İngiltere",
+    "capital": "Londra",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/ingiltere_gb_eng.svg"
+  },
+  {
+    "countryCode": "gb-nir",
+    "countryName": "Kuzey İrlanda",
+    "capital": "Belfast",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/kuzey_irlanda_gb_nir.svg"
+  },
+  {
+    "countryCode": "gb-sct",
+    "countryName": "İskoçya",
+    "capital": "Edinburgh",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/iskocya_gb_sct.svg"
+  },
+  {
+    "countryCode": "gb-wls",
+    "countryName": "Galler",
+    "capital": "Cardiff",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/galler_gb_wls.svg"
+  },
+  {
+    "countryCode": "gb",
+    "countryName": "Birleşik Krallık",
+    "capital": "Londra",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/birlesik_krallik_gb.svg"
+  },
+  {
+    "countryCode": "gd",
+    "countryName": "Grenada",
+    "capital": "St. George's",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/grenada_gd.svg"
+  },
+  {
+    "countryCode": "ge",
+    "countryName": "Gürcistan",
+    "capital": "Tiflis",
+    "continent": "Avrupa / Asya",
+    "flagPath": "bayrak/gurcistan_ge.svg"
+  },
+  {
+    "countryCode": "gf",
+    "countryName": "Fransiz Guyanasi",
+    "capital": "Cayenne",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/fransiz_guyanasi_gf.svg"
+  },
+  {
+    "countryCode": "gg",
+    "countryName": "Alderney",
+    "capital": "St Peter Port",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/alderney_gg.svg"
+  },
+  {
+    "countryCode": "gh",
+    "countryName": "Gana",
+    "capital": "Accra",
+    "continent": "Afrika",
+    "flagPath": "bayrak/gana_gh.svg"
+  },
+  {
+    "countryCode": "gi",
+    "countryName": "Cebelitarik",
+    "capital": "Gibraltar",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/cebelitarik_gi.svg"
+  },
+  {
+    "countryCode": "gl",
+    "countryName": "Grönland",
+    "capital": "Nuuk",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/gronland_gl.svg"
+  },
+  {
+    "countryCode": "gm",
+    "countryName": "Gambiya",
+    "capital": "Banjul",
+    "continent": "Afrika",
+    "flagPath": "bayrak/gambiya_gm.svg"
+  },
+  {
+    "countryCode": "gn",
+    "countryName": "Gine",
+    "capital": "Conakry",
+    "continent": "Afrika",
+    "flagPath": "bayrak/gine_gn.svg"
+  },
+  {
+    "countryCode": "gp",
+    "countryName": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/guadeloupe_gp.svg"
+  },
+  {
+    "countryCode": "gq",
+    "countryName": "Ekvator Ginesi",
+    "capital": "Malabo",
+    "continent": "Afrika",
+    "flagPath": "bayrak/ekvator_ginesi_gq.svg"
+  },
+  {
+    "countryCode": "gr",
+    "countryName": "Yunanistan",
+    "capital": "Atina",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/yunanistan_gr.svg"
+  },
+  {
+    "countryCode": "gs",
+    "countryName": "Güney Georgia",
+    "capital": "Grytviken",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/guney_georgia_gs.svg"
+  },
+  {
+    "countryCode": "gt",
+    "countryName": "Guatemala",
+    "capital": "Guatemala City",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/guatemala_gt.svg"
+  },
+  {
+    "countryCode": "gu",
+    "countryName": "Guam",
+    "capital": "Hagatna",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/guam_gu.svg"
+  },
+  {
+    "countryCode": "gw",
+    "countryName": "Gine-bissau",
+    "capital": "Bissau",
+    "continent": "Afrika",
+    "flagPath": "bayrak/gine_bissau_gw.svg"
+  },
+  {
+    "countryCode": "gy",
+    "countryName": "Guyana",
+    "capital": "Georgetown",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/guyana_gy.svg"
+  },
+  {
+    "countryCode": "hk",
+    "countryName": "Hong Kong",
+    "capital": "Hong Kong",
+    "continent": "Asya",
+    "flagPath": "bayrak/hong_kong_hk.svg"
+  },
+  {
+    "countryCode": "hm",
+    "countryName": "Heard Adasi Ve Mcdonald Adalari",
+    "capital": "Başkent Bilgisi Yok",
+    "continent": "Diğer",
+    "flagPath": "bayrak/heard_adasi_ve_mcdonald_adalari_hm.svg"
+  },
+  {
+    "countryCode": "hn",
+    "countryName": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/honduras_hn.svg"
+  },
+  {
+    "countryCode": "hr",
+    "countryName": "Hırvatistan",
+    "capital": "Zagreb",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/hirvatistan_hr.svg"
+  },
+  {
+    "countryCode": "ht",
+    "countryName": "Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/haiti_ht.svg"
+  },
+  {
+    "countryCode": "hu",
+    "countryName": "Macaristan",
+    "capital": "Budapeşte",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/macaristan_hu.svg"
+  },
+  {
+    "countryCode": "id",
+    "countryName": "Endonezya",
+    "capital": "Cakarta",
+    "continent": "Asya",
+    "flagPath": "bayrak/endonezya_id.svg"
+  },
+  {
+    "countryCode": "ie",
+    "countryName": "İrlanda",
+    "capital": "Dublin",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/irlanda_ie.svg"
+  },
+  {
+    "countryCode": "il",
+    "countryName": "İsrail",
+    "capital": "Kudüs",
+    "continent": "Asya",
+    "flagPath": "bayrak/israil_il.svg"
+  },
+  {
+    "countryCode": "im",
+    "countryName": "Man Adasi",
+    "capital": "Douglas, Isle of Man",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/man_adasi_im.svg"
+  },
+  {
+    "countryCode": "in",
+    "countryName": "Hindistan",
+    "capital": "Yeni Delhi",
+    "continent": "Asya",
+    "flagPath": "bayrak/hindistan_in.svg"
+  },
+  {
+    "countryCode": "io",
+    "countryName": "Britanya Hint Okyanusu Topraklari",
+    "capital": "Diego Garcia",
+    "continent": "Afrika",
+    "flagPath": "bayrak/britanya_hint_okyanusu_topraklari_io.svg"
+  },
+  {
+    "countryCode": "iq",
+    "countryName": "Irak",
+    "capital": "Bağdat",
+    "continent": "Asya",
+    "flagPath": "bayrak/irak_iq.svg"
+  },
+  {
+    "countryCode": "ir",
+    "countryName": "İran",
+    "capital": "Tahran",
+    "continent": "Asya",
+    "flagPath": "bayrak/iran_ir.svg"
+  },
+  {
+    "countryCode": "is",
+    "countryName": "İzlanda",
+    "capital": "Reykjavik",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/izlanda_is.svg"
+  },
+  {
+    "countryCode": "it",
+    "countryName": "İtalya",
+    "capital": "Roma",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/italya_it.svg"
+  },
+  {
+    "countryCode": "je",
+    "countryName": "Jersey",
+    "capital": "Saint Helier",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/jersey_je.svg"
+  },
+  {
+    "countryCode": "jm",
+    "countryName": "Jamaika",
+    "capital": "Kingston",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/jamaika_jm.svg"
+  },
+  {
+    "countryCode": "jo",
+    "countryName": "Ürdün",
+    "capital": "Amman",
+    "continent": "Asya",
+    "flagPath": "bayrak/urdun_jo.svg"
+  },
+  {
+    "countryCode": "jp",
+    "countryName": "Japonya",
+    "capital": "Tokyo",
+    "continent": "Asya",
+    "flagPath": "bayrak/japonya_jp.svg"
+  },
+  {
+    "countryCode": "ke",
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Afrika",
+    "flagPath": "bayrak/kenya_ke.svg"
+  },
+  {
+    "countryCode": "kg",
+    "countryName": "Kırgızistan",
+    "capital": "Bişkek",
+    "continent": "Asya",
+    "flagPath": "bayrak/kirgizistan_kg.svg"
+  },
+  {
+    "countryCode": "kh",
+    "countryName": "Kamboçya",
+    "capital": "Phnom Penh",
+    "continent": "Asya",
+    "flagPath": "bayrak/kambocya_kh.svg"
+  },
+  {
+    "countryCode": "ki",
+    "countryName": "Kiribati",
+    "capital": "Tarawa",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/kiribati_ki.svg"
+  },
+  {
+    "countryCode": "km",
+    "countryName": "Komorlar",
+    "capital": "Moroni",
+    "continent": "Afrika",
+    "flagPath": "bayrak/komorlar_km.svg"
+  },
+  {
+    "countryCode": "kn",
+    "countryName": "Saint Kitts Ve Nevis",
+    "capital": "Basseterre",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_kitts_ve_nevis_kn.svg"
+  },
+  {
+    "countryCode": "kp",
+    "countryName": "Kuzey Kore",
+    "capital": "Pyongyang",
+    "continent": "Asya",
+    "flagPath": "bayrak/kuzey_kore_kp.svg"
+  },
+  {
+    "countryCode": "kr",
+    "countryName": "Güney Kore",
+    "capital": "Seul",
+    "continent": "Asya",
+    "flagPath": "bayrak/guney_kore_kr.svg"
+  },
+  {
+    "countryCode": "kw",
+    "countryName": "Kuveyt",
+    "capital": "Kuveyt",
+    "continent": "Asya",
+    "flagPath": "bayrak/kuveyt_kw.svg"
+  },
+  {
+    "countryCode": "ky",
+    "countryName": "Cayman Adalari",
+    "capital": "George Town",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/cayman_adalari_ky.svg"
+  },
+  {
+    "countryCode": "kz",
+    "countryName": "Kazakistan",
+    "capital": "Astana",
+    "continent": "Avrupa / Asya",
+    "flagPath": "bayrak/kazakistan_kz.svg"
+  },
+  {
+    "countryCode": "la",
+    "countryName": "Laos",
+    "capital": "Vientiane",
+    "continent": "Asya",
+    "flagPath": "bayrak/laos_la.svg"
+  },
+  {
+    "countryCode": "lb",
+    "countryName": "Lübnan",
+    "capital": "Beyrut",
+    "continent": "Asya",
+    "flagPath": "bayrak/lubnan_lb.svg"
+  },
+  {
+    "countryCode": "lc",
+    "countryName": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_lucia_lc.svg"
+  },
+  {
+    "countryCode": "li",
+    "countryName": "Lihtenştayn",
+    "capital": "Vaduz",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/lihtenstayn_li.svg"
+  },
+  {
+    "countryCode": "lk",
+    "countryName": "Sri Lanka",
+    "capital": "Colombo",
+    "continent": "Asya",
+    "flagPath": "bayrak/sri_lanka_lk.svg"
+  },
+  {
+    "countryCode": "lr",
+    "countryName": "Liberya",
+    "capital": "Monrovia",
+    "continent": "Afrika",
+    "flagPath": "bayrak/liberya_lr.svg"
+  },
+  {
+    "countryCode": "ls",
+    "countryName": "Lesotho",
+    "capital": "Maseru",
+    "continent": "Afrika",
+    "flagPath": "bayrak/lesotho_ls.svg"
+  },
+  {
+    "countryCode": "lt",
+    "countryName": "Litvanya",
+    "capital": "Vilnius",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/litvanya_lt.svg"
+  },
+  {
+    "countryCode": "lu",
+    "countryName": "Lüksemburg",
+    "capital": "Lüksemburg",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/luksemburg_lu.svg"
+  },
+  {
+    "countryCode": "lv",
+    "countryName": "Letonya",
+    "capital": "Riga",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/letonya_lv.svg"
+  },
+  {
+    "countryCode": "ly",
+    "countryName": "Libya",
+    "capital": "Trablus",
+    "continent": "Afrika",
+    "flagPath": "bayrak/libya_ly.svg"
+  },
+  {
+    "countryCode": "ma",
+    "countryName": "Fas",
+    "capital": "Rabat",
+    "continent": "Afrika",
+    "flagPath": "bayrak/fas_ma.svg"
+  },
+  {
+    "countryCode": "mc",
+    "countryName": "Monako",
+    "capital": "Monako",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/monako_mc.svg"
+  },
+  {
+    "countryCode": "md",
+    "countryName": "Moldova",
+    "capital": "Chisinau",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/moldova_md.svg"
+  },
+  {
+    "countryCode": "me",
+    "countryName": "Karadağ",
+    "capital": "Podgorica",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/karadag_me.svg"
+  },
+  {
+    "countryCode": "mf",
+    "countryName": "Saint Martin",
+    "capital": "Marigot",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_martin_mf.svg"
+  },
+  {
+    "countryCode": "mg",
+    "countryName": "Madagaskar",
+    "capital": "Antananarivo",
+    "continent": "Afrika",
+    "flagPath": "bayrak/madagaskar_mg.svg"
+  },
+  {
+    "countryCode": "mh",
+    "countryName": "Marşal Adalari",
+    "capital": "Majuro",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/marsal_adalari_mh.svg"
+  },
+  {
+    "countryCode": "mk",
+    "countryName": "Kuzey Makedonya",
+    "capital": "Üsküp",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/kuzey_makedonya_mk.svg"
+  },
+  {
+    "countryCode": "ml",
+    "countryName": "Mali",
+    "capital": "Bamako",
+    "continent": "Afrika",
+    "flagPath": "bayrak/mali_ml.svg"
+  },
+  {
+    "countryCode": "mm",
+    "countryName": "Myanmar",
+    "capital": "Nay Pyi Taw",
+    "continent": "Asya",
+    "flagPath": "bayrak/myanmar_mm.svg"
+  },
+  {
+    "countryCode": "mn",
+    "countryName": "Moğolistan",
+    "capital": "Ulan Bator",
+    "continent": "Asya",
+    "flagPath": "bayrak/mogolistan_mn.svg"
+  },
+  {
+    "countryCode": "mo",
+    "countryName": "Makao",
+    "capital": "Macao",
+    "continent": "Asya",
+    "flagPath": "bayrak/makao_mo.svg"
+  },
+  {
+    "countryCode": "mp",
+    "countryName": "Kuzey Mariana Adalari",
+    "capital": "Saipan",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/kuzey_mariana_adalari_mp.svg"
+  },
+  {
+    "countryCode": "mq",
+    "countryName": "Martinik",
+    "capital": "Fort-de-France",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/martinik_mq.svg"
+  },
+  {
+    "countryCode": "mr",
+    "countryName": "Moritanya",
+    "capital": "Nouakchott",
+    "continent": "Afrika",
+    "flagPath": "bayrak/moritanya_mr.svg"
+  },
+  {
+    "countryCode": "ms",
+    "countryName": "Montserrat",
+    "capital": "Plymouth",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/montserrat_ms.svg"
+  },
+  {
+    "countryCode": "mt",
+    "countryName": "Malta",
+    "capital": "Valletta",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/malta_mt.svg"
+  },
+  {
+    "countryCode": "mu",
+    "countryName": "Morityus",
+    "capital": "Port Louis",
+    "continent": "Afrika",
+    "flagPath": "bayrak/morityus_mu.svg"
+  },
+  {
+    "countryCode": "mv",
+    "countryName": "Maldivler",
+    "capital": "Male",
+    "continent": "Asya",
+    "flagPath": "bayrak/maldivler_mv.svg"
+  },
+  {
+    "countryCode": "mw",
+    "countryName": "Malavi",
+    "capital": "Lilongwe",
+    "continent": "Afrika",
+    "flagPath": "bayrak/malavi_mw.svg"
+  },
+  {
+    "countryCode": "mx",
+    "countryName": "Meksika",
+    "capital": "Meksiko",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/meksika_mx.svg"
+  },
+  {
+    "countryCode": "my",
+    "countryName": "Malezya",
+    "capital": "Kuala Lumpur",
+    "continent": "Asya",
+    "flagPath": "bayrak/malezya_my.svg"
+  },
+  {
+    "countryCode": "mz",
+    "countryName": "Mozambik",
+    "capital": "Maputo",
+    "continent": "Afrika",
+    "flagPath": "bayrak/mozambik_mz.svg"
+  },
+  {
+    "countryCode": "na",
+    "countryName": "Namibya",
+    "capital": "Windhoek",
+    "continent": "Afrika",
+    "flagPath": "bayrak/namibya_na.svg"
+  },
+  {
+    "countryCode": "nc",
+    "countryName": "Yeni Kaledonya",
+    "capital": "Noumea",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/yeni_kaledonya_nc.svg"
+  },
+  {
+    "countryCode": "ne",
+    "countryName": "Nijer",
+    "capital": "Niamey",
+    "continent": "Afrika",
+    "flagPath": "bayrak/nijer_ne.svg"
+  },
+  {
+    "countryCode": "nf",
+    "countryName": "Norfolk Adasi",
+    "capital": "Kingston",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/norfolk_adasi_nf.svg"
+  },
+  {
+    "countryCode": "ng",
+    "countryName": "Nijerya",
+    "capital": "Abuja",
+    "continent": "Afrika",
+    "flagPath": "bayrak/nijerya_ng.svg"
+  },
+  {
+    "countryCode": "ni",
+    "countryName": "Nikaragua",
+    "capital": "Managua",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/nikaragua_ni.svg"
+  },
+  {
+    "countryCode": "nl",
+    "countryName": "Hollanda",
+    "capital": "Amsterdam",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/hollanda_nl.svg"
+  },
+  {
+    "countryCode": "no",
+    "countryName": "Norveç",
+    "capital": "Oslo",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/norvec_no.svg"
+  },
+  {
+    "countryCode": "np",
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asya",
+    "flagPath": "bayrak/nepal_np.svg"
+  },
+  {
+    "countryCode": "nr",
+    "countryName": "Nauru",
+    "capital": "Yaren",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/nauru_nr.svg"
+  },
+  {
+    "countryCode": "nu",
+    "countryName": "Niue",
+    "capital": "Alofi",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/niue_nu.svg"
+  },
+  {
+    "countryCode": "nz",
+    "countryName": "Yeni Zelanda",
+    "capital": "Wellington",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/yeni_zelanda_nz.svg"
+  },
+  {
+    "countryCode": "om",
+    "countryName": "Umman",
+    "capital": "Muscat",
+    "continent": "Asya",
+    "flagPath": "bayrak/umman_om.svg"
+  },
+  {
+    "countryCode": "pa",
+    "countryName": "Panama",
+    "capital": "Panama City",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/panama_pa.svg"
+  },
+  {
+    "countryCode": "pe",
+    "countryName": "Peru",
+    "capital": "Lima",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/peru_pe.svg"
+  },
+  {
+    "countryCode": "pf",
+    "countryName": "Fransiz Polinezyasi",
+    "capital": "Papeete",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/fransiz_polinezyasi_pf.svg"
+  },
+  {
+    "countryCode": "pg",
+    "countryName": "Papua Yeni Gine",
+    "capital": "Port Moresby",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/papua_yeni_gine_pg.svg"
+  },
+  {
+    "countryCode": "ph",
+    "countryName": "Filipinler",
+    "capital": "Manila",
+    "continent": "Asya",
+    "flagPath": "bayrak/filipinler_ph.svg"
+  },
+  {
+    "countryCode": "pk",
+    "countryName": "Pakistan",
+    "capital": "İslamabad",
+    "continent": "Asya",
+    "flagPath": "bayrak/pakistan_pk.svg"
+  },
+  {
+    "countryCode": "pl",
+    "countryName": "Polonya",
+    "capital": "Varşova",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/polonya_pl.svg"
+  },
+  {
+    "countryCode": "pm",
+    "countryName": "Saint Pierre Ve Miquelon",
+    "capital": "Saint-Pierre",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_pierre_ve_miquelon_pm.svg"
+  },
+  {
+    "countryCode": "pn",
+    "countryName": "Pitcairn Adalari",
+    "capital": "Adamstown",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/pitcairn_adalari_pn.svg"
+  },
+  {
+    "countryCode": "pr",
+    "countryName": "Porto Riko",
+    "capital": "San Juan",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/porto_riko_pr.svg"
+  },
+  {
+    "countryCode": "ps",
+    "countryName": "Filistin",
+    "capital": "Kudüs",
+    "continent": "Asya",
+    "flagPath": "bayrak/filistin_ps.svg"
+  },
+  {
+    "countryCode": "pt",
+    "countryName": "Portekiz",
+    "capital": "Lizbon",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/portekiz_pt.svg"
+  },
+  {
+    "countryCode": "pw",
+    "countryName": "Palau",
+    "capital": "Melekeok",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/palau_pw.svg"
+  },
+  {
+    "countryCode": "py",
+    "countryName": "Paraguay",
+    "capital": "Asunción",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/paraguay_py.svg"
+  },
+  {
+    "countryCode": "qa",
+    "countryName": "Katar",
+    "capital": "Doha",
+    "continent": "Asya",
+    "flagPath": "bayrak/katar_qa.svg"
+  },
+  {
+    "countryCode": "re",
+    "countryName": "Réunion",
+    "capital": "Saint-Denis",
+    "continent": "Afrika",
+    "flagPath": "bayrak/r_union_re.svg"
+  },
+  {
+    "countryCode": "ro",
+    "countryName": "Romanya",
+    "capital": "Bükreş",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/romanya_ro.svg"
+  },
+  {
+    "countryCode": "rs",
+    "countryName": "Sırbistan",
+    "capital": "Belgrad",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/sirbistan_rs.svg"
+  },
+  {
+    "countryCode": "ru",
+    "countryName": "Rusya",
+    "capital": "Moskova",
+    "continent": "Avrupa / Asya",
+    "flagPath": "bayrak/rusya_ru.svg"
+  },
+  {
+    "countryCode": "rw",
+    "countryName": "Ruanda",
+    "capital": "Kigali",
+    "continent": "Afrika",
+    "flagPath": "bayrak/ruanda_rw.svg"
+  },
+  {
+    "countryCode": "sa",
+    "countryName": "Suudi Arabistan",
+    "capital": "Riyad",
+    "continent": "Asya",
+    "flagPath": "bayrak/suudi_arabistan_sa.svg"
+  },
+  {
+    "countryCode": "sb",
+    "countryName": "Solomon Adalari",
+    "capital": "Honiara",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/solomon_adalari_sb.svg"
+  },
+  {
+    "countryCode": "sc",
+    "countryName": "Seyşeller",
+    "capital": "Victoria",
+    "continent": "Afrika",
+    "flagPath": "bayrak/seyseller_sc.svg"
+  },
+  {
+    "countryCode": "sd",
+    "countryName": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Afrika",
+    "flagPath": "bayrak/sudan_sd.svg"
+  },
+  {
+    "countryCode": "se",
+    "countryName": "İsveç",
+    "capital": "Stockholm",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/isvec_se.svg"
+  },
+  {
+    "countryCode": "sg",
+    "countryName": "Singapur",
+    "capital": "Singapur",
+    "continent": "Asya",
+    "flagPath": "bayrak/singapur_sg.svg"
+  },
+  {
+    "countryCode": "sh",
+    "countryName": "Saint Helena",
+    "capital": "Jamestown",
+    "continent": "Afrika",
+    "flagPath": "bayrak/saint_helena_sh.svg"
+  },
+  {
+    "countryCode": "si",
+    "countryName": "Slovenya",
+    "capital": "Ljubljana",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/slovenya_si.svg"
+  },
+  {
+    "countryCode": "sj",
+    "countryName": "Svalbard Ve Jan Mayen",
+    "capital": "Longyearbyen",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/svalbard_ve_jan_mayen_sj.svg"
+  },
+  {
+    "countryCode": "sk",
+    "countryName": "Slovakya",
+    "capital": "Bratislava",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/slovakya_sk.svg"
+  },
+  {
+    "countryCode": "sl",
+    "countryName": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Afrika",
+    "flagPath": "bayrak/sierra_leone_sl.svg"
+  },
+  {
+    "countryCode": "sm",
+    "countryName": "San Marino",
+    "capital": "San Marino",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/san_marino_sm.svg"
+  },
+  {
+    "countryCode": "sn",
+    "countryName": "Senegal",
+    "capital": "Dakar",
+    "continent": "Afrika",
+    "flagPath": "bayrak/senegal_sn.svg"
+  },
+  {
+    "countryCode": "so",
+    "countryName": "Somali",
+    "capital": "Mogadishu",
+    "continent": "Afrika",
+    "flagPath": "bayrak/somali_so.svg"
+  },
+  {
+    "countryCode": "sr",
+    "countryName": "Surinam",
+    "capital": "Paramaribo",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/surinam_sr.svg"
+  },
+  {
+    "countryCode": "ss",
+    "countryName": "Güney Sudan",
+    "capital": "Juba",
+    "continent": "Afrika",
+    "flagPath": "bayrak/guney_sudan_ss.svg"
+  },
+  {
+    "countryCode": "st",
+    "countryName": "Sao Tome Ve Prinsipe",
+    "capital": "Sao Tome",
+    "continent": "Afrika",
+    "flagPath": "bayrak/sao_tome_ve_prinsipe_st.svg"
+  },
+  {
+    "countryCode": "sv",
+    "countryName": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/el_salvador_sv.svg"
+  },
+  {
+    "countryCode": "sx",
+    "countryName": "Sint Maarten",
+    "capital": "Philipsburg",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/sint_maarten_sx.svg"
+  },
+  {
+    "countryCode": "sy",
+    "countryName": "Suriye",
+    "capital": "Şam",
+    "continent": "Asya",
+    "flagPath": "bayrak/suriye_sy.svg"
+  },
+  {
+    "countryCode": "sz",
+    "countryName": "Esvatini",
+    "capital": "Mbabane",
+    "continent": "Afrika",
+    "flagPath": "bayrak/esvatini_sz.svg"
+  },
+  {
+    "countryCode": "tc",
+    "countryName": "Turks Ve Caicos Adalari",
+    "capital": "Cockburn Town",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/turks_ve_caicos_adalari_tc.svg"
+  },
+  {
+    "countryCode": "td",
+    "countryName": "Çad",
+    "capital": "N'Djamena",
+    "continent": "Afrika",
+    "flagPath": "bayrak/cad_td.svg"
+  },
+  {
+    "countryCode": "tf",
+    "countryName": "Fransiz Güney Topraklari",
+    "capital": "Port-aux-Francais",
+    "continent": "Afrika",
+    "flagPath": "bayrak/fransiz_guney_topraklari_tf.svg"
+  },
+  {
+    "countryCode": "tg",
+    "countryName": "Togo",
+    "capital": "Lome",
+    "continent": "Afrika",
+    "flagPath": "bayrak/togo_tg.svg"
+  },
+  {
+    "countryCode": "th",
+    "countryName": "Tayland",
+    "capital": "Bangkok",
+    "continent": "Asya",
+    "flagPath": "bayrak/tayland_th.svg"
+  },
+  {
+    "countryCode": "tj",
+    "countryName": "Tacikistan",
+    "capital": "Dushanbe",
+    "continent": "Asya",
+    "flagPath": "bayrak/tacikistan_tj.svg"
+  },
+  {
+    "countryCode": "tk",
+    "countryName": "Tokelau",
+    "capital": "Başkent Bilgisi Yok",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/tokelau_tk.svg"
+  },
+  {
+    "countryCode": "tl",
+    "countryName": "Doğu Timor",
+    "capital": "Dili",
+    "continent": "Asya",
+    "flagPath": "bayrak/dogu_timor_tl.svg"
+  },
+  {
+    "countryCode": "tm",
+    "countryName": "Türkmenistan",
+    "capital": "Aşkabat",
+    "continent": "Asya",
+    "flagPath": "bayrak/turkmenistan_tm.svg"
+  },
+  {
+    "countryCode": "tn",
+    "countryName": "Tunus",
+    "capital": "Tunus",
+    "continent": "Afrika",
+    "flagPath": "bayrak/tunus_tn.svg"
+  },
+  {
+    "countryCode": "to",
+    "countryName": "Tonga",
+    "capital": "Nuku'alofa",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/tonga_to.svg"
+  },
+  {
+    "countryCode": "tr",
+    "countryName": "Türkiye",
+    "capital": "Ankara",
+    "continent": "Avrupa / Asya",
+    "flagPath": "bayrak/turkiye_tr.svg"
+  },
+  {
+    "countryCode": "tt",
+    "countryName": "Trinidad Ve Tobago",
+    "capital": "Port of Spain",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/trinidad_ve_tobago_tt.svg"
+  },
+  {
+    "countryCode": "tv",
+    "countryName": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/tuvalu_tv.svg"
+  },
+  {
+    "countryCode": "tw",
+    "countryName": "Tayvan",
+    "capital": "Taipei",
+    "continent": "Asya",
+    "flagPath": "bayrak/tayvan_tw.svg"
+  },
+  {
+    "countryCode": "tz",
+    "countryName": "Tanzanya",
+    "capital": "Dodoma",
+    "continent": "Afrika",
+    "flagPath": "bayrak/tanzanya_tz.svg"
+  },
+  {
+    "countryCode": "ua",
+    "countryName": "Ukrayna",
+    "capital": "Kiev",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/ukrayna_ua.svg"
+  },
+  {
+    "countryCode": "ug",
+    "countryName": "Uganda",
+    "capital": "Kampala",
+    "continent": "Afrika",
+    "flagPath": "bayrak/uganda_ug.svg"
+  },
+  {
+    "countryCode": "um",
+    "countryName": "Abd Küçük Harici Adalari",
+    "capital": "Başkent Bilgisi Yok",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/abd_kucuk_harici_adalari_um.svg"
+  },
+  {
+    "countryCode": "us",
+    "countryName": "Amerika Birleşik Devletleri",
+    "capital": "Washington, D.C.",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/amerika_birlesik_devletleri_us.svg"
+  },
+  {
+    "countryCode": "uy",
+    "countryName": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/uruguay_uy.svg"
+  },
+  {
+    "countryCode": "uz",
+    "countryName": "Özbekistan",
+    "capital": "Taşkent",
+    "continent": "Asya",
+    "flagPath": "bayrak/ozbekistan_uz.svg"
+  },
+  {
+    "countryCode": "va",
+    "countryName": "Vatikan",
+    "capital": "Vatikan",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/vatikan_va.svg"
+  },
+  {
+    "countryCode": "vc",
+    "countryName": "Saint Vincent Ve Grenadinler",
+    "capital": "Kingstown",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/saint_vincent_ve_grenadinler_vc.svg"
+  },
+  {
+    "countryCode": "ve",
+    "countryName": "Venezuela",
+    "capital": "Caracas",
+    "continent": "Güney Amerika",
+    "flagPath": "bayrak/venezuela_ve.svg"
+  },
+  {
+    "countryCode": "vg",
+    "countryName": "Britanya Virjin Adalari",
+    "capital": "Road Town",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/britanya_virjin_adalari_vg.svg"
+  },
+  {
+    "countryCode": "vi",
+    "countryName": "Abd Virjin Adalari",
+    "capital": "Charlotte Amalie",
+    "continent": "Kuzey Amerika",
+    "flagPath": "bayrak/abd_virjin_adalari_vi.svg"
+  },
+  {
+    "countryCode": "vn",
+    "countryName": "Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asya",
+    "flagPath": "bayrak/vietnam_vn.svg"
+  },
+  {
+    "countryCode": "vu",
+    "countryName": "Vanuatu",
+    "capital": "Port Vila",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/vanuatu_vu.svg"
+  },
+  {
+    "countryCode": "wf",
+    "countryName": "Wallis Ve Futuna",
+    "capital": "Mata Utu",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/wallis_ve_futuna_wf.svg"
+  },
+  {
+    "countryCode": "ws",
+    "countryName": "Samoa",
+    "capital": "Apia",
+    "continent": "Okyanusya",
+    "flagPath": "bayrak/samoa_ws.svg"
+  },
+  {
+    "countryCode": "xk",
+    "countryName": "Kosova",
+    "capital": "Priştine",
+    "continent": "Avrupa",
+    "flagPath": "bayrak/kosova_xk.svg"
+  },
+  {
+    "countryCode": "ye",
+    "countryName": "Yemen",
+    "capital": "Sanaa",
+    "continent": "Asya",
+    "flagPath": "bayrak/yemen_ye.svg"
+  },
+  {
+    "countryCode": "yt",
+    "countryName": "Mayotte",
+    "capital": "Mamoudzou",
+    "continent": "Afrika",
+    "flagPath": "bayrak/mayotte_yt.svg"
+  },
+  {
+    "countryCode": "za",
+    "countryName": "Güney Afrika Cumhuriyeti",
+    "capital": "Pretoria",
+    "continent": "Afrika",
+    "flagPath": "bayrak/guney_afrika_cumhuriyeti_za.svg"
+  },
+  {
+    "countryCode": "zm",
+    "countryName": "Zambiya",
+    "capital": "Lusaka",
+    "continent": "Afrika",
+    "flagPath": "bayrak/zambiya_zm.svg"
+  },
+  {
+    "countryCode": "zw",
+    "countryName": "Zimbabve",
+    "capital": "Harare",
+    "continent": "Afrika",
+    "flagPath": "bayrak/zimbabve_zw.svg"
+  }
+]

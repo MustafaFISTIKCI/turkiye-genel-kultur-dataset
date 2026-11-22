@@ -1,0 +1,3168 @@
+[
+  {
+    "id": "01_tarihi_yapi",
+    "plate": "01",
+    "city": "Adana",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Taşköprü",
+    "hint": "Roma döneminden kalma, Seyhan Nehri üzerindeki tarihi taş köprü.",
+    "search_queries": [
+      "Taskopru Adana",
+      "Taşköprü Adana"
+    ]
+  },
+  {
+    "id": "01_doga",
+    "plate": "01",
+    "city": "Adana",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Kapıkaya Kanyonu",
+    "hint": "Torosların eteklerinde yürüyüş parkuruyla ünlü derin kanyon.",
+    "search_queries": [
+      "Kapikaya Kanyonu",
+      "Varda Viaduct Adana"
+    ]
+  },
+  {
+    "id": "01_yemek",
+    "plate": "01",
+    "city": "Adana",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Adana Kebabı",
+    "hint": "Zırh kıymasıyla hazırlanan, uzun şişte közlenen coğrafi işaretli kebap.",
+    "search_queries": [
+      "Adana kebab",
+      "Adana kebabı"
+    ]
+  },
+  {
+    "id": "02_tarihi_yapi",
+    "plate": "02",
+    "city": "Adıyaman",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Nemrut Dağı Heykelleri",
+    "hint": "Kommagene Krallığı'ndan kalma dev taş heykellerin bulunduğu zirve.",
+    "search_queries": [
+      "Mount Nemrut statues",
+      "Nemrut Dagi"
+    ]
+  },
+  {
+    "id": "02_doga",
+    "plate": "02",
+    "city": "Adıyaman",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Cendere Köprüsü",
+    "hint": "Kâhta Çayı üzerinde yer alan Roma dönemi kemerli taş köprü.",
+    "search_queries": [
+      "Cendere Bridge",
+      "Cendere Koprusu"
+    ]
+  },
+  {
+    "id": "02_yemek",
+    "plate": "02",
+    "city": "Adıyaman",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Çiğ Köfte (Etsiz)",
+    "hint": "Bulgur, isot ve baharatların uzun süre yoğrulmasıyla hazırlanan lezzet.",
+    "search_queries": [
+      "Cig kofte",
+      "Çiğ köfte"
+    ]
+  },
+  {
+    "id": "03_tarihi_yapi",
+    "plate": "03",
+    "city": "Afyonkarahisar",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Afyonkarahisar Kalesi",
+    "hint": "Volkanik bir kaya kütlesinin tepesine kurulmuş görkemli kale.",
+    "search_queries": [
+      "Afyonkarahisar Castle",
+      "Afyon Kalesi"
+    ]
+  },
+  {
+    "id": "03_doga",
+    "plate": "03",
+    "city": "Afyonkarahisar",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Frig Vadisi",
+    "hint": "Kayalara oyulmuş antik yerleşimleri ve peri bacalarıyla ünlü vadi.",
+    "search_queries": [
+      "Phrygian Valley Afyon",
+      "Ayazini Frig Vadisi"
+    ]
+  },
+  {
+    "id": "03_yemek",
+    "plate": "03",
+    "city": "Afyonkarahisar",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Afyon Kaymağı ve Lokumu",
+    "hint": "Manda sütünden yapılan yoğun kıvamlı kaymak ve lokum.",
+    "search_queries": [
+      "Kaymak Turkish",
+      "Turkish delight Afyon"
+    ]
+  },
+  {
+    "id": "04_tarihi_yapi",
+    "plate": "04",
+    "city": "Ağrı",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "İshak Paşa Sarayı",
+    "hint": "Osmanlı döneminin doğudaki en görkemli saray ve külliye kompleksi.",
+    "search_queries": [
+      "Ishak Pasha Palace",
+      "İshak Paşa Sarayı"
+    ]
+  },
+  {
+    "id": "04_doga",
+    "plate": "04",
+    "city": "Ağrı",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Ağrı Dağı",
+    "hint": "5137 metre yüksekliğiyle Türkiye'nin en yüksek zirvesi.",
+    "search_queries": [
+      "Mount Ararat",
+      "Agri Dagi"
+    ]
+  },
+  {
+    "id": "04_yemek",
+    "plate": "04",
+    "city": "Ağrı",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Abdigör Köftesi",
+    "hint": "Yağsız dana etinin taşta dövülerek hazırlandığı yöresel köfte.",
+    "search_queries": [
+      "Abdigor koftesi",
+      "Turkish kofte"
+    ]
+  },
+  {
+    "id": "05_tarihi_yapi",
+    "plate": "05",
+    "city": "Amasya",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Kral Kaya Mezarları",
+    "hint": "Yeşilırmak kıyısındaki dik kayalara oyulmuş Pontus dönemi mezarları.",
+    "search_queries": [
+      "Pontic Tombs Amasya",
+      "Amasya Kral Kaya Mezarları"
+    ]
+  },
+  {
+    "id": "05_doga",
+    "plate": "05",
+    "city": "Amasya",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Borabay Gölü",
+    "hint": "Çam ormanlarıyla çevrili doğal heyelan set gölü.",
+    "search_queries": [
+      "Borabay Lake",
+      "Borabay Gölü"
+    ]
+  },
+  {
+    "id": "05_yemek",
+    "plate": "05",
+    "city": "Amasya",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Amasya Çöreği",
+    "hint": "Cevizli ve haşhaşlı iç harcıyla fırınlanan geleneksel hamur işi.",
+    "search_queries": [
+      "Amasya coregi",
+      "Turkish pastry walnut"
+    ]
+  },
+  {
+    "id": "06_tarihi_yapi",
+    "plate": "06",
+    "city": "Ankara",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Anıtkabir",
+    "hint": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarı.",
+    "search_queries": [
+      "Anitkabir",
+      "Anıtkabir"
+    ]
+  },
+  {
+    "id": "06_doga",
+    "plate": "06",
+    "city": "Ankara",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Tuz Gölü",
+    "hint": "Yazın kuruyarak bembeyaz bir tuz örtüsü oluşturan dev göl.",
+    "search_queries": [
+      "Lake Tuz",
+      "Tuz Gölü"
+    ]
+  },
+  {
+    "id": "06_yemek",
+    "plate": "06",
+    "city": "Ankara",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Ankara Tava",
+    "hint": "Arpa şehriye ve kuzu etinin güveçte pişirilmesiyle yapılan yemek.",
+    "search_queries": [
+      "Ankara tava",
+      "Turkish lamb pilaf"
+    ]
+  },
+  {
+    "id": "07_tarihi_yapi",
+    "plate": "07",
+    "city": "Antalya",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Aspendos Antik Tiyatrosu",
+    "hint": "Roma döneminden günümüze en iyi korunarak ulaşan antik tiyatro.",
+    "search_queries": [
+      "Aspendos theatre",
+      "Aspendos"
+    ]
+  },
+  {
+    "id": "07_doga",
+    "plate": "07",
+    "city": "Antalya",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Düden Şelalesi",
+    "hint": "Sularını falezlerden Akdeniz'e döken ünlü şelale.",
+    "search_queries": [
+      "Duden Waterfalls",
+      "Düden Şelalesi"
+    ]
+  },
+  {
+    "id": "07_yemek",
+    "plate": "07",
+    "city": "Antalya",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Piyaz (Tahinli)",
+    "hint": "Haşlanmış fasulyenin tahinli sosla buluştuğu yöresel salata.",
+    "search_queries": [
+      "Antalya piyaz",
+      "Turkish bean salad tahini"
+    ]
+  },
+  {
+    "id": "08_tarihi_yapi",
+    "plate": "08",
+    "city": "Artvin",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "İşhan Manastırı",
+    "hint": "Orta Çağ'dan kalma taş işçiliğiyle ünlü tarihi manastır yapısı.",
+    "search_queries": [
+      "Ishani monastery",
+      "İşhan Kilisesi"
+    ]
+  },
+  {
+    "id": "08_doga",
+    "plate": "08",
+    "city": "Artvin",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Karagöl (Borçka)",
+    "hint": "Sisli ormanların arasında yansımalarıyla ünlü heyelan gölü.",
+    "search_queries": [
+      "Borcka Karagol",
+      "Borçka Karagöl"
+    ]
+  },
+  {
+    "id": "08_yemek",
+    "plate": "08",
+    "city": "Artvin",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Kuymak / Mıhlama",
+    "hint": "Mısır unu, tereyağı ve eriyen yöresel peynirle yapılan sıcak lezzet.",
+    "search_queries": [
+      "Muhlama",
+      "Kuymak"
+    ]
+  },
+  {
+    "id": "09_tarihi_yapi",
+    "plate": "09",
+    "city": "Aydın",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Efes / Milet Antik Kenti",
+    "hint": "Antik İyonya'nın felsefe ve ticaret merkezi olan görkemli ören yeri.",
+    "search_queries": [
+      "Miletus theatre",
+      "Didyma Temple of Apollo"
+    ]
+  },
+  {
+    "id": "09_doga",
+    "plate": "09",
+    "city": "Aydın",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Bafa Gölü",
+    "hint": "Antik kalıntılar ve zeytinliklerle çevrili Ege'nin en büyük gölü.",
+    "search_queries": [
+      "Lake Bafa",
+      "Bafa Gölü"
+    ]
+  },
+  {
+    "id": "09_yemek",
+    "plate": "09",
+    "city": "Aydın",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "İncir Uyutması",
+    "hint": "Kuru incir ve sütle şeker eklenmeden hazırlanan geleneksel tatlı.",
+    "search_queries": [
+      "Turkish fig dessert",
+      "Dried figs Turkey"
+    ]
+  },
+  {
+    "id": "10_tarihi_yapi",
+    "plate": "10",
+    "city": "Balıkesir",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Saatli Kilise / Taksiyarhis",
+    "hint": "Ayvalık Cunda Adası'ndaki neoklasik taş mimarili tarihi yapı.",
+    "search_queries": [
+      "Taksiyarhis Church Ayvalik",
+      "Cunda Taksiyarhis"
+    ]
+  },
+  {
+    "id": "10_doga",
+    "plate": "10",
+    "city": "Balıkesir",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Kaz Dağları",
+    "hint": "Zengin endemik bitki örtüsü ve oksijen deposu kanyonlarıyla ünlü dağ.",
+    "search_queries": [
+      "Mount Ida Turkey",
+      "Kaz Daglari"
+    ]
+  },
+  {
+    "id": "10_yemek",
+    "plate": "10",
+    "city": "Balıkesir",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Höşmerim",
+    "hint": "Taze tuzsuz peynir, irmik ve şekerle yapılan altın sarısı tatlı.",
+    "search_queries": [
+      "Hosmerim",
+      "Höşmerim"
+    ]
+  },
+  {
+    "id": "11_tarihi_yapi",
+    "plate": "11",
+    "city": "Bilecik",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Şeyh Edebali Türbesi",
+    "hint": "Osmanlı Devleti'nin manevi kurucusuna ait tarihi türbe ve külliye.",
+    "search_queries": [
+      "Seyh Edebali Tomb",
+      "Şeyh Edebali Türbesi"
+    ]
+  },
+  {
+    "id": "11_doga",
+    "plate": "11",
+    "city": "Bilecik",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Harmankaya Kanyonu",
+    "hint": "Doğa yürüyüşü ve kaya tırmanışıyla bilinen sarp kanyon.",
+    "search_queries": [
+      "Harmankaya Canyon",
+      "Bilecik canyon"
+    ]
+  },
+  {
+    "id": "11_yemek",
+    "plate": "11",
+    "city": "Bilecik",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Bıldırcın Kebabı",
+    "hint": "Özel soslu bıldırcın etinin sebzelerle fırınlandığı yöresel yemek.",
+    "search_queries": [
+      "Bilecik food",
+      "Roasted quail Turkish"
+    ]
+  },
+  {
+    "id": "12_tarihi_yapi",
+    "plate": "12",
+    "city": "Bingöl",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Zağ Mağarası",
+    "hint": "Kayalara oyulmuş çok katlı tarihi yerleşim mağaraları.",
+    "search_queries": [
+      "Bingol cave",
+      "Solhan Bingol"
+    ]
+  },
+  {
+    "id": "12_doga",
+    "plate": "12",
+    "city": "Bingöl",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Yüzen Adalar",
+    "hint": "Krater gölü üzerinde rüzgarla hareket eden doğal adacıklar.",
+    "search_queries": [
+      "Floating islands Solhan",
+      "Bingöl Yüzen Adalar"
+    ]
+  },
+  {
+    "id": "12_yemek",
+    "plate": "12",
+    "city": "Bingöl",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Gömme (Kömbe)",
+    "hint": "El açması yufkaların arasına kavurma konularak sacda pişirilen yemek.",
+    "search_queries": [
+      "Kömbe",
+      "Turkish borek",
+      "Börek"
+    ]
+  },
+  {
+    "id": "13_tarihi_yapi",
+    "plate": "13",
+    "city": "Bitlis",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Ahlat Selçuklu Mezarlığı",
+    "hint": "Üzerinde zengin taş işlemeleri bulunan dev Selçuklu mezar taşları.",
+    "search_queries": [
+      "Ahlat Seljuk Cemetery",
+      "Ahlat mezar taşları"
+    ]
+  },
+  {
+    "id": "13_doga",
+    "plate": "13",
+    "city": "Bitlis",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Nemrut Krater Gölü",
+    "hint": "Sönmüş bir volkanın zirvesindeki sıcak ve soğuk sularıyla ünlü kaldera.",
+    "search_queries": [
+      "Nemrut Caldera",
+      "Nemrut Krater Gölü"
+    ]
+  },
+  {
+    "id": "13_yemek",
+    "plate": "13",
+    "city": "Bitlis",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Büryan Kebabı",
+    "hint": "Derin kuyularda buhar ve közle uzun sürede pişirilen kuzu eti.",
+    "search_queries": [
+      "Buryan kebab",
+      "Bitlis büryan"
+    ]
+  },
+  {
+    "id": "14_tarihi_yapi",
+    "plate": "14",
+    "city": "Bolu",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Mudurnu Tarihi Evleri",
+    "hint": "Ahşap konakları ve saat kulesiyle korunan Osmanlı kasabası.",
+    "search_queries": [
+      "Mudurnu houses",
+      "Goynuk Turkey"
+    ]
+  },
+  {
+    "id": "14_doga",
+    "plate": "14",
+    "city": "Bolu",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Yedigöller Milli Parkı",
+    "hint": "Sonbahar renkleriyle ünlü, yedi doğal gölden oluşan orman cenneti.",
+    "search_queries": [
+      "Yedigoller National Park",
+      "Abant Lake"
+    ]
+  },
+  {
+    "id": "14_yemek",
+    "plate": "14",
+    "city": "Bolu",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Mengen Pilavı",
+    "hint": "Kuzu eti, mantar, ceviz ve baharatlarla zenginleştirilen pilav.",
+    "search_queries": [
+      "Mengen pilaf",
+      "Turkish rice mushrooms"
+    ]
+  },
+  {
+    "id": "15_tarihi_yapi",
+    "plate": "15",
+    "city": "Burdur",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Sagalassos Antik Kenti",
+    "hint": "Torosların yamacında yer alan Antoninler Çeşmesi ile ünlü antik kent.",
+    "search_queries": [
+      "Sagalassos",
+      "Antonine Nymphaeum Sagalassos"
+    ]
+  },
+  {
+    "id": "15_doga",
+    "plate": "15",
+    "city": "Burdur",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Salda Gölü",
+    "hint": "Beyaz hidromanyezit kumsalı ve turkuaz suyuyla ünlü krater gölü.",
+    "search_queries": [
+      "Lake Salda",
+      "Salda Gölü"
+    ]
+  },
+  {
+    "id": "15_yemek",
+    "plate": "15",
+    "city": "Burdur",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Burdur Şiş",
+    "hint": "Kuyruk yağı ve kıymadan yapılan, pide üzerinde servis edilen şiş kebap.",
+    "search_queries": [
+      "Burdur sis",
+      "Turkish minced kebab"
+    ]
+  },
+  {
+    "id": "16_tarihi_yapi",
+    "plate": "16",
+    "city": "Bursa",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Ulu Camii",
+    "hint": "20 kubbeli mimarisi ve hat sanatıyla ünlü erken Osmanlı camisi.",
+    "search_queries": [
+      "Grand Mosque of Bursa",
+      "Bursa Ulu Cami"
+    ]
+  },
+  {
+    "id": "16_doga",
+    "plate": "16",
+    "city": "Bursa",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Uludağ",
+    "hint": "Kış turizmi ve teleferiğiyle meşhur Marmara'nın en yüksek dağı.",
+    "search_queries": [
+      "Uludag",
+      "Uludağ Bursa"
+    ]
+  },
+  {
+    "id": "16_yemek",
+    "plate": "16",
+    "city": "Bursa",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "İskender Kebap",
+    "hint": "Tereyağı, domates sosu ve yoğurt eşliğinde sunulan döner kebap.",
+    "search_queries": [
+      "Iskender kebap",
+      "İskender kebap"
+    ]
+  },
+  {
+    "id": "17_tarihi_yapi",
+    "plate": "17",
+    "city": "Çanakkale",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Truva Antik Kenti",
+    "hint": "Homeros'un İlyada destanına konu olan çok katmanlı antik kent.",
+    "search_queries": [
+      "Troy archaeological site",
+      "Trojan Horse Canakkale"
+    ]
+  },
+  {
+    "id": "17_doga",
+    "plate": "17",
+    "city": "Çanakkale",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Kazdağı Şelaleleri (Sütüven)",
+    "hint": "Ege'nin kuzeyinde çam ormanları arasından akan serin şelale.",
+    "search_queries": [
+      "Sutuven Waterfall",
+      "Bozcaada coast"
+    ]
+  },
+  {
+    "id": "17_yemek",
+    "plate": "17",
+    "city": "Çanakkale",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Peynir Helvası",
+    "hint": "Tuzsuz taze peynir ve irmikle yapılan, fırınlanmış sıcak tatlı.",
+    "search_queries": [
+      "Peynir helvasi",
+      "Çanakkale peynir helvası"
+    ]
+  },
+  {
+    "id": "18_tarihi_yapi",
+    "plate": "18",
+    "city": "Çankırı",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Tuz Mağarası",
+    "hint": "Hititlerden beri işletilen dev yeraltı kaya tuzu galerileri.",
+    "search_queries": [
+      "Cankiri Salt Cave",
+      "Çankırı Tuz Mağarası"
+    ]
+  },
+  {
+    "id": "18_doga",
+    "plate": "18",
+    "city": "Çankırı",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Ilgaz Dağları",
+    "hint": "Köknar ormanları ve kış sporlarıyla bilinen yüksek dağ silsilesi.",
+    "search_queries": [
+      "Ilgaz Mountains",
+      "Ilgaz Milli Parki"
+    ]
+  },
+  {
+    "id": "18_yemek",
+    "plate": "18",
+    "city": "Çankırı",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Yaren Güveci",
+    "hint": "Çömlekte ağır ateşte sebze ve etle pişirilen geleneksel güveç.",
+    "search_queries": [
+      "Turkish lamb stew clay pot",
+      "Cankiri guvec"
+    ]
+  },
+  {
+    "id": "19_tarihi_yapi",
+    "plate": "19",
+    "city": "Çorum",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Hattuşa Antik Kenti",
+    "hint": "Hitit İmparatorluğu'nun başkenti olan Aslanlı Kapı ve surlar.",
+    "search_queries": [
+      "Hattusa",
+      "Lion Gate Hattusa"
+    ]
+  },
+  {
+    "id": "19_doga",
+    "plate": "19",
+    "city": "Çorum",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "İncesu Kanyonu",
+    "hint": "Kaya kabartmaları ve sarp kayalıklarıyla ünlü uzun kanyon.",
+    "search_queries": [
+      "Incesu Canyon Corum",
+      "Corum canyon"
+    ]
+  },
+  {
+    "id": "19_yemek",
+    "plate": "19",
+    "city": "Çorum",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Çorum Leblebisi",
+    "hint": "Özel kavurma tekniğiyle çıtır hale getirilen nohut kuruyemişi.",
+    "search_queries": [
+      "Leblebi",
+      "Roasted chickpeas Turkey"
+    ]
+  },
+  {
+    "id": "20_tarihi_yapi",
+    "plate": "20",
+    "city": "Denizli",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Hierapolis Antik Kenti",
+    "hint": "Travertenlerin hemen üstüne kurulmuş Roma dönemi antik kenti.",
+    "search_queries": [
+      "Hierapolis",
+      "Hierapolis theatre"
+    ]
+  },
+  {
+    "id": "20_doga",
+    "plate": "20",
+    "city": "Denizli",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Pamukkale Travertenleri",
+    "hint": "Kalsiyum karbonatlı termal suların oluşturduğu beyaz basamaklar.",
+    "search_queries": [
+      "Pamukkale travertines",
+      "Pamukkale"
+    ]
+  },
+  {
+    "id": "20_yemek",
+    "plate": "20",
+    "city": "Denizli",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Denizli Kebabı",
+    "hint": "Sakız ağacı odunuyla fırında pişirilen, elle yenilen kuzu tandır.",
+    "search_queries": [
+      "Denizli tandir",
+      "Turkish tandoor lamb"
+    ]
+  },
+  {
+    "id": "21_tarihi_yapi",
+    "plate": "21",
+    "city": "Diyarbakır",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Diyarbakır Surları ve On Gözlü Köprü",
+    "hint": "Bazalt taşından yapılmış tarihi surlar ve Dicle üzerindeki kemerli köprü.",
+    "search_queries": [
+      "Diyarbakir walls",
+      "Ten Eyed Bridge Diyarbakir"
+    ]
+  },
+  {
+    "id": "21_doga",
+    "plate": "21",
+    "city": "Diyarbakır",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Hevsel Bahçeleri",
+    "hint": "Dicle Nehri kıyısında binlerce yıldır tarım yapılan yeşil vadi.",
+    "search_queries": [
+      "Hevsel Gardens",
+      "Dicle river Diyarbakir"
+    ]
+  },
+  {
+    "id": "21_yemek",
+    "plate": "21",
+    "city": "Diyarbakır",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Kaburga Dolması",
+    "hint": "İç pilavla doldurulup ağır ateşte kızartılan kuzu kaburgası.",
+    "search_queries": [
+      "Kaburga dolmasi",
+      "Stuffed lamb ribs Turkish"
+    ]
+  },
+  {
+    "id": "22_tarihi_yapi",
+    "plate": "22",
+    "city": "Edirne",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Selimiye Camii",
+    "hint": "Mimar Sinan'ın 'ustalık eserim' dediği dört minareli başyapıt.",
+    "search_queries": [
+      "Selimiye Mosque",
+      "Selimiye Camii"
+    ]
+  },
+  {
+    "id": "22_doga",
+    "plate": "22",
+    "city": "Edirne",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Meriç Nehri ve Gala Gölü",
+    "hint": "Trakya'nın bereketli ovasından geçen tarihi köprülerle süslü nehir.",
+    "search_queries": [
+      "Meric Bridge Edirne",
+      "Meriç Köprüsü"
+    ]
+  },
+  {
+    "id": "22_yemek",
+    "plate": "22",
+    "city": "Edirne",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Edirne Tava Ciğeri",
+    "hint": "İnce dilimlenmiş dana ciğerinin kızgın yağda çıtır kızartılması.",
+    "search_queries": [
+      "Edirne tava ciger",
+      "Fried liver Turkish"
+    ]
+  },
+  {
+    "id": "23_tarihi_yapi",
+    "plate": "23",
+    "city": "Elazığ",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Harput Kalesi",
+    "hint": "Urartular döneminden kalma, 'Süt Kalesi' olarak da bilinen kale.",
+    "search_queries": [
+      "Harput Castle",
+      "Harput Kalesi"
+    ]
+  },
+  {
+    "id": "23_doga",
+    "plate": "23",
+    "city": "Elazığ",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Hazar Gölü",
+    "hint": "Dağlar arasında uzanan tektonik göl ve batık kent kalıntıları.",
+    "search_queries": [
+      "Lake Hazar Elazig",
+      "Hazar Gölü"
+    ]
+  },
+  {
+    "id": "23_yemek",
+    "plate": "23",
+    "city": "Elazığ",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Orcik (Cevizli Sucuk)",
+    "hint": "İpe dizili cevizlerin üzüm şırasına batırılmasıyla yapılan tatlı.",
+    "search_queries": [
+      "Cevizli sucuk",
+      "Churchkhela Turkish"
+    ]
+  },
+  {
+    "id": "24_tarihi_yapi",
+    "plate": "24",
+    "city": "Erzincan",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Mama Hatun Külliyesi",
+    "hint": "Tercan'da yer alan dairesel planlı eşsiz Saltuklu türbe ve kervansarayı.",
+    "search_queries": [
+      "Mama Hatun Complex",
+      "Mama Hatun Türbesi"
+    ]
+  },
+  {
+    "id": "24_doga",
+    "plate": "24",
+    "city": "Erzincan",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Girlevik Şelalesi",
+    "hint": "Yazın serinliği, kışın donmuş sarkıtlarıyla ünlü çok katlı şelale.",
+    "search_queries": [
+      "Girlevik Waterfall",
+      "Girlevik Şelalesi"
+    ]
+  },
+  {
+    "id": "24_yemek",
+    "plate": "24",
+    "city": "Erzincan",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Erzincan Tulum Peyniri",
+    "hint": "Yüksek yaylalarda otlayan koyunların sütünden yapılan aromatik peynir.",
+    "search_queries": [
+      "Tulum cheese",
+      "Erzincan tulum"
+    ]
+  },
+  {
+    "id": "25_tarihi_yapi",
+    "plate": "25",
+    "city": "Erzurum",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Çifte Minareli Medrese",
+    "hint": "Selçuklu taş oymacılığının simgesi haline gelmiş anıtsal medrese.",
+    "search_queries": [
+      "Twin Minaret Madrasa Erzurum",
+      "Çifte Minareli Medrese"
+    ]
+  },
+  {
+    "id": "25_doga",
+    "plate": "25",
+    "city": "Erzurum",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Tortum Şelalesi",
+    "hint": "48 metre yükseklikten dökülen Türkiye'nin en büyük şelalelerinden biri.",
+    "search_queries": [
+      "Tortum Waterfall",
+      "Tortum Şelalesi"
+    ]
+  },
+  {
+    "id": "25_yemek",
+    "plate": "25",
+    "city": "Erzurum",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Cağ Kebabı",
+    "hint": "Yatay şişte odun ateşinde çevrilerek kesilen marine kuzu eti.",
+    "search_queries": [
+      "Cag kebabi",
+      "Cağ kebabı"
+    ]
+  },
+  {
+    "id": "26_tarihi_yapi",
+    "plate": "26",
+    "city": "Eskişehir",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Odunpazarı Evleri",
+    "hint": "Kıvrımlı sokakları ve renkli cumbalı ahşap evleriyle tarihi mahalle.",
+    "search_queries": [
+      "Odunpazari",
+      "Odunpazarı evleri"
+    ]
+  },
+  {
+    "id": "26_doga",
+    "plate": "26",
+    "city": "Eskişehir",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Porsuk Çayı",
+    "hint": "Şehrin içinden geçen, gondol turlarıyla ünlü nehir.",
+    "search_queries": [
+      "Porsuk River Eskisehir",
+      "Porsuk Çayı"
+    ]
+  },
+  {
+    "id": "26_yemek",
+    "plate": "26",
+    "city": "Eskişehir",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Çibörek",
+    "hint": "İnce açılmış hamurun içine çiğ kıyma konulup kızartılan Tatar böreği.",
+    "search_queries": [
+      "Ciborek",
+      "Chebureki"
+    ]
+  },
+  {
+    "id": "27_tarihi_yapi",
+    "plate": "27",
+    "city": "Gaziantep",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Zeugma Mozaik Müzesi",
+    "hint": "'Çingene Kızı' mozaiğine ev sahipliği yapan dünyaca ünlü müze.",
+    "search_queries": [
+      "Zeugma Mosaic Museum",
+      "Gypsy Girl mosaic"
+    ]
+  },
+  {
+    "id": "27_doga",
+    "plate": "27",
+    "city": "Gaziantep",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Rumkale",
+    "hint": "Fırat Nehri kıyısında sarp bir yarımada üzerinde yükselen tarihi kale.",
+    "search_queries": [
+      "Rumkale",
+      "Halfeti Euphrates"
+    ]
+  },
+  {
+    "id": "27_yemek",
+    "plate": "27",
+    "city": "Gaziantep",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Gaziantep Baklavası",
+    "hint": "İnce yufka katları, sade yağ ve bol Antep fıstığıyla yapılan tatlı.",
+    "search_queries": [
+      "Gaziantep baklava",
+      "Baklava pistachios"
+    ]
+  },
+  {
+    "id": "28_tarihi_yapi",
+    "plate": "28",
+    "city": "Giresun",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Giresun Adası",
+    "hint": "Doğu Karadeniz'in yerleşim izleri taşıyan tek adası.",
+    "search_queries": [
+      "Giresun Island",
+      "Giresun Adası"
+    ]
+  },
+  {
+    "id": "28_doga",
+    "plate": "28",
+    "city": "Giresun",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Kümbet Yaylası ve Mavigöl",
+    "hint": "Turkuaz renkli sodalı gölleri ve ladin ormanlarıyla ünlü yayla.",
+    "search_queries": [
+      "Giresun Mavi Gol",
+      "Kumbet Yaylasi"
+    ]
+  },
+  {
+    "id": "28_yemek",
+    "plate": "28",
+    "city": "Giresun",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Karalahana Çorbası",
+    "hint": "Mısır yarması, barbunya ve karalahana ile pişirilen yöresel çorba.",
+    "search_queries": [
+      "Karalahana corbasi",
+      "Black cabbage soup Turkish"
+    ]
+  },
+  {
+    "id": "29_tarihi_yapi",
+    "plate": "29",
+    "city": "Gümüşhane",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Santa Harabeleri",
+    "hint": "Dağ yamaçlarına kurulmuş taş kilise ve evlerden oluşan tarihi yerleşim.",
+    "search_queries": [
+      "Santa Ruins Gumushane",
+      "Süleymaniye Mahallesi Gümüşhane"
+    ]
+  },
+  {
+    "id": "29_doga",
+    "plate": "29",
+    "city": "Gümüşhane",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Karaca Mağarası",
+    "hint": "Renkli damlataş sütunları ve traverten havuzlarıyla ünlü mağara.",
+    "search_queries": [
+      "Karaca Cave",
+      "Karaca Mağarası"
+    ]
+  },
+  {
+    "id": "29_yemek",
+    "plate": "29",
+    "city": "Gümüşhane",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Pestil ve Köme",
+    "hint": "Dut pekmezi, bal, süt ve fındık/cevizle hazırlanan enerji kaynağı.",
+    "search_queries": [
+      "Pestil",
+      "Gumushane pestil"
+    ]
+  },
+  {
+    "id": "30_tarihi_yapi",
+    "plate": "30",
+    "city": "Hakkâri",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Meydan Medresesi",
+    "hint": "Osmanlı döneminden kalma kesme taşlı iki katlı tarihi medrese.",
+    "search_queries": [
+      "Hakkari Meydan Medresesi",
+      "Hakkari castle"
+    ]
+  },
+  {
+    "id": "30_doga",
+    "plate": "30",
+    "city": "Hakkâri",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Cilo ve Sat Dağları",
+    "hint": "Buzulları ve yüksek rakımlı buzul gölleriyle ünlü sarp dağlar.",
+    "search_queries": [
+      "Cilo Mountains",
+      "Sat Lakes Hakkari"
+    ]
+  },
+  {
+    "id": "30_yemek",
+    "plate": "30",
+    "city": "Hakkâri",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Doğaba",
+    "hint": "Yoğurt, dövme buğday ve köftelerle hazırlanan geleneksel çorba.",
+    "search_queries": [
+      "Turkish yogurt wheat soup",
+      "Hakkari food"
+    ]
+  },
+  {
+    "id": "31_tarihi_yapi",
+    "plate": "31",
+    "city": "Hatay",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "St. Pierre Kilisesi",
+    "hint": "Kayaya oyulmuş dünyanın ilk mağara kiliselerinden biri.",
+    "search_queries": [
+      "Church of Saint Peter Antakya",
+      "St Pierre Antakya"
+    ]
+  },
+  {
+    "id": "31_doga",
+    "plate": "31",
+    "city": "Hatay",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Titus Tüneli",
+    "hint": "Roma döneminde dağların oyulmasıyla açılan dev su kanalı ve kanyon.",
+    "search_queries": [
+      "Titus Tunnel",
+      "Titus Tüneli"
+    ]
+  },
+  {
+    "id": "31_yemek",
+    "plate": "31",
+    "city": "Hatay",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Künefe",
+    "hint": "Tuzsuz özel peynir, tel kadayıf ve şerbetle sıcak servis edilen tatlı.",
+    "search_queries": [
+      "Kunefe",
+      "Künefe"
+    ]
+  },
+  {
+    "id": "32_tarihi_yapi",
+    "plate": "32",
+    "city": "Isparta",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Eğirdir Kalesi ve Yeşilada",
+    "hint": "Gölün içine uzanan yarımadada bulunan tarihi kale ve taş evler.",
+    "search_queries": [
+      "Egirdir",
+      "Eğirdir Kalesi"
+    ]
+  },
+  {
+    "id": "32_doga",
+    "plate": "32",
+    "city": "Isparta",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Lavanta Bahçeleri (Kuyucak)",
+    "hint": "Yaz aylarında mor renge bürünen dünyaca ünlü lavanta tarlaları.",
+    "search_queries": [
+      "Kovada Lake",
+      "Lavender field",
+      "Lavandula"
+    ]
+  },
+  {
+    "id": "32_yemek",
+    "plate": "32",
+    "city": "Isparta",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Isparta Fırın Kebabı",
+    "hint": "Özel tuğla fırınlarda saatlerce kendi yağıyla pişirilen kuzu eti.",
+    "search_queries": [
+      "Isparta firin kebabi",
+      "Turkish roasted lamb"
+    ]
+  },
+  {
+    "id": "33_tarihi_yapi",
+    "plate": "33",
+    "city": "Mersin",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Kızkalesi",
+    "hint": "Kıyıdan birkaç yüz metre açıkta küçük bir ada üzerine kurulu deniz kalesi.",
+    "search_queries": [
+      "Kizkalesi",
+      "Kızkalesi Mersin"
+    ]
+  },
+  {
+    "id": "33_doga",
+    "plate": "33",
+    "city": "Mersin",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Cennet ve Cehennem Obrukları",
+    "hint": "Kireçtaşı tabakasının çökmesiyle oluşmuş iki dev karstik obruk.",
+    "search_queries": [
+      "Cennet and Cehennem",
+      "Cennet Cehennem Mersin"
+    ]
+  },
+  {
+    "id": "33_yemek",
+    "plate": "33",
+    "city": "Mersin",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Tantuni",
+    "hint": "Sacda pamuk yağıyla kavrulan ince doğranmış etin lavaşa sarılmış hali.",
+    "search_queries": [
+      "Tantuni",
+      "Mersin tantuni"
+    ]
+  },
+  {
+    "id": "34_tarihi_yapi",
+    "plate": "34",
+    "city": "İstanbul",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Ayasofya",
+    "hint": "Bin beş yüz yıllık görkemli kubbesiyle İstanbul'un tarihi simgesi.",
+    "search_queries": [
+      "Hagia Sophia",
+      "Ayasofya"
+    ]
+  },
+  {
+    "id": "34_doga",
+    "plate": "34",
+    "city": "İstanbul",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "İstanbul Boğazı",
+    "hint": "Asya ve Avrupa kıtalarını birbirinden ayıran eşsiz su yolu.",
+    "search_queries": [
+      "Bosphorus",
+      "Istanbul Bosphorus"
+    ]
+  },
+  {
+    "id": "34_yemek",
+    "plate": "34",
+    "city": "İstanbul",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Islak Hamburger / Simit",
+    "hint": "Susamla kaplı çıtır hamuruyla vapurların vazgeçilmez sokak lezzeti.",
+    "search_queries": [
+      "Turkish simit",
+      "Simit Istanbul"
+    ]
+  },
+  {
+    "id": "35_tarihi_yapi",
+    "plate": "35",
+    "city": "İzmir",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "İzmir Saat Kulesi",
+    "hint": "Konak Meydanı'nda yükselen Osmanlı döneminin zarif taş kulesi.",
+    "search_queries": [
+      "Izmir Clock Tower",
+      "İzmir Saat Kulesi"
+    ]
+  },
+  {
+    "id": "35_doga",
+    "plate": "35",
+    "city": "İzmir",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Şirince / Alaçatı Kıyıları",
+    "hint": "Taş sokakları, zeytinlikleri ve rüzgar sörfü koylarıyla ünlü bölge.",
+    "search_queries": [
+      "Sirince",
+      "Alacati"
+    ]
+  },
+  {
+    "id": "35_yemek",
+    "plate": "35",
+    "city": "İzmir",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Boyoz",
+    "hint": "Kat kat milföy dokulu, yanında haşlanmış yumurtayla yenilen hamur işi.",
+    "search_queries": [
+      "Boyoz",
+      "İzmir boyoz"
+    ]
+  },
+  {
+    "id": "36_tarihi_yapi",
+    "plate": "36",
+    "city": "Kars",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Ani Harabeleri",
+    "hint": "Arpaçay kıyısında yer alan bin yıllık Orta Çağ başkentinin kalıntıları.",
+    "search_queries": [
+      "Ani ruins",
+      "Ani Cathedral"
+    ]
+  },
+  {
+    "id": "36_doga",
+    "plate": "36",
+    "city": "Kars",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Çıldır Gölü",
+    "hint": "Kışın yüzeyi tamamen buz tutan ve üzerinde kızak sürülen yüksek göl.",
+    "search_queries": [
+      "Lake Cildir",
+      "Çıldır Gölü"
+    ]
+  },
+  {
+    "id": "36_yemek",
+    "plate": "36",
+    "city": "Kars",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Kars Kaşarı ve Kaz Eti",
+    "hint": "Yüksek yayla sütlerinden olgunlaştırılan meşhur eski kaşar peyniri.",
+    "search_queries": [
+      "Kars kasar",
+      "Kars kaz eti"
+    ]
+  },
+  {
+    "id": "37_tarihi_yapi",
+    "plate": "37",
+    "city": "Kastamonu",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Kastamonu Kalesi",
+    "hint": "Şehre hakim yüksek bir tepede yer alan Bizans dönemi kalesi.",
+    "search_queries": [
+      "Kastamonu Castle",
+      "Kastamonu Kalesi"
+    ]
+  },
+  {
+    "id": "37_doga",
+    "plate": "37",
+    "city": "Kastamonu",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Valla Kanyonu",
+    "hint": "Dünyanın en derin kanyonlarından biri olan sarp doğa harikası.",
+    "search_queries": [
+      "Valla Canyon",
+      "Ilica Waterfall Kastamonu"
+    ]
+  },
+  {
+    "id": "37_yemek",
+    "plate": "37",
+    "city": "Kastamonu",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Etli Ekmek (Kastamonu)",
+    "hint": "İncecik açılan hamurun içine kıyma yayılıp sacda pişirilen lezzet.",
+    "search_queries": [
+      "Etli ekmek",
+      "Kastamonu pastirma"
+    ]
+  },
+  {
+    "id": "38_tarihi_yapi",
+    "plate": "38",
+    "city": "Kayseri",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Gevher Nesibe Medresesi",
+    "hint": "Anadolu'nun en eski tıp medresesi ve şifahanesi.",
+    "search_queries": [
+      "Gevher Nesibe",
+      "Kayseri Castle"
+    ]
+  },
+  {
+    "id": "38_doga",
+    "plate": "38",
+    "city": "Kayseri",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Erciyes Dağı",
+    "hint": "İç Anadolu'nun zirvesinde yer alan sönmüş volkan ve kayak merkezi.",
+    "search_queries": [
+      "Mount Erciyes",
+      "Erciyes Dağı"
+    ]
+  },
+  {
+    "id": "38_yemek",
+    "plate": "38",
+    "city": "Kayseri",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Kayseri Mantısı",
+    "hint": "Bir kaşığa kırk tane sığacak küçüklükte kapatılan yoğurtlu hamur işi.",
+    "search_queries": [
+      "Turkish manti",
+      "Kayseri mantısı"
+    ]
+  },
+  {
+    "id": "39_tarihi_yapi",
+    "plate": "39",
+    "city": "Kırklareli",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Hızırbey Külliyesi",
+    "hint": "14. yüzyıldan kalma cami, hamam ve arastadan oluşan tarihi külliye.",
+    "search_queries": [
+      "Kirklareli mosque",
+      "Hızırbey Camii Kırklareli"
+    ]
+  },
+  {
+    "id": "39_doga",
+    "plate": "39",
+    "city": "Kırklareli",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "İğneada Longoz Ormanları",
+    "hint": "Karadeniz kıyısında su basar orman ekosistemiyle nadir bir doğa alanı.",
+    "search_queries": [
+      "Igneada",
+      "İğneada Longoz"
+    ]
+  },
+  {
+    "id": "39_yemek",
+    "plate": "39",
+    "city": "Kırklareli",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Hardaliye",
+    "hint": "Üzüm şırası, vişne yaprağı ve hardal tohumuyla fermente edilen içecek.",
+    "search_queries": [
+      "Hardaliye",
+      "Red grape juice Turkish"
+    ]
+  },
+  {
+    "id": "40_tarihi_yapi",
+    "plate": "40",
+    "city": "Kırşehir",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Cacabey Medresesi",
+    "hint": "Selçuklu döneminde gökbilim gözlemevi olarak kullanılan tarihi yapı.",
+    "search_queries": [
+      "Cacabey Madrasa",
+      "Cacabey Medresesi"
+    ]
+  },
+  {
+    "id": "40_doga",
+    "plate": "40",
+    "city": "Kırşehir",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Seyfe Gölü",
+    "hint": "Flamingolar başta olmak üzere yüzlerce kuş türüne ev sahipliği yapan göl.",
+    "search_queries": [
+      "Lake Seyfe",
+      "Seyfe Gölü"
+    ]
+  },
+  {
+    "id": "40_yemek",
+    "plate": "40",
+    "city": "Kırşehir",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Çullama",
+    "hint": "Tavuk suyuyla ıslatılan yufka ve tereyağıyla yapılan yöresel yemek.",
+    "search_queries": [
+      "Turkish chicken pastry",
+      "Kirsehir food"
+    ]
+  },
+  {
+    "id": "41_tarihi_yapi",
+    "plate": "41",
+    "city": "Kocaeli",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "İzmit Saat Kulesi",
+    "hint": "Körfez manzaralı tepede yer alan neoklasik Osmanlı saat kulesi.",
+    "search_queries": [
+      "Izmit Clock Tower",
+      "İzmit Saat Kulesi"
+    ]
+  },
+  {
+    "id": "41_doga",
+    "plate": "41",
+    "city": "Kocaeli",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Kartepe ve Maşukiye",
+    "hint": "Ormanları, şelaleleri ve kış manzarasıyla bilinen doğal kaçış noktası.",
+    "search_queries": [
+      "Kartepe",
+      "Ballikayalar"
+    ]
+  },
+  {
+    "id": "41_yemek",
+    "plate": "41",
+    "city": "Kocaeli",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Pişmaniye",
+    "hint": "Tel tel çekilerek hazırlanan pamuksu geleneksel şekerleme.",
+    "search_queries": [
+      "Pismaniye",
+      "Pişmaniye"
+    ]
+  },
+  {
+    "id": "42_tarihi_yapi",
+    "plate": "42",
+    "city": "Konya",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Mevlana Müzesi",
+    "hint": "Turkuaz çinili kubbesiyle tanınan tarihi dergah ve müze.",
+    "search_queries": [
+      "Mevlana Museum",
+      "Mevlana Türbesi"
+    ]
+  },
+  {
+    "id": "42_doga",
+    "plate": "42",
+    "city": "Konya",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Meke Krater Gölü",
+    "hint": "Volkanik patlama sonucu oluşan, ortasında adacık bulunan nazar boncuğu göl.",
+    "search_queries": [
+      "Lake Meke",
+      "Meke Gölü"
+    ]
+  },
+  {
+    "id": "42_yemek",
+    "plate": "42",
+    "city": "Konya",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Etli Ekmek",
+    "hint": "Uzun ince hamur üzerinde kıyma ve sebzeyle taş fırında pişen lezzet.",
+    "search_queries": [
+      "Etli ekmek",
+      "Konya etli ekmek"
+    ]
+  },
+  {
+    "id": "43_tarihi_yapi",
+    "plate": "43",
+    "city": "Kütahya",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Aizanoi Antik Kenti",
+    "hint": "Dünyanın en iyi korunmuş Zeus Tapınağı'na sahip antik kent.",
+    "search_queries": [
+      "Aizanoi",
+      "Temple of Zeus Aizanoi"
+    ]
+  },
+  {
+    "id": "43_doga",
+    "plate": "43",
+    "city": "Kütahya",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Domaniç Ormanları",
+    "hint": "Kayın ve çam ağaçlarıyla kaplı tarihi yayla ormanları.",
+    "search_queries": [
+      "Domanic forest",
+      "Kutahya nature"
+    ]
+  },
+  {
+    "id": "43_yemek",
+    "plate": "43",
+    "city": "Kütahya",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Cimcik Hamuru",
+    "hint": "Küçük fiyonk şeklinde kesilip yoğurt ve sosla sunulan hamur yemeği.",
+    "search_queries": [
+      "Turkish manti",
+      "Kütahya mantısı"
+    ]
+  },
+  {
+    "id": "44_tarihi_yapi",
+    "plate": "44",
+    "city": "Malatya",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Arslantepe Höyüğü",
+    "hint": "Devlet sisteminin ilk izlerinin bulunduğu UNESCO Dünya Mirası höyük.",
+    "search_queries": [
+      "Arslantepe",
+      "Aslantepe Malatya"
+    ]
+  },
+  {
+    "id": "44_doga",
+    "plate": "44",
+    "city": "Malatya",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Levent Vadisi",
+    "hint": "Milyonlarca yılda oluşmuş ilginç kaya oluşumları ve derin kanyon.",
+    "search_queries": [
+      "Levent Valley Malatya",
+      "Gunpinar Waterfall"
+    ]
+  },
+  {
+    "id": "44_yemek",
+    "plate": "44",
+    "city": "Malatya",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Malatya Kayısısı",
+    "hint": "Güneşte kurutulan tatlı ve aromatik dünyaca ünlü meyve.",
+    "search_queries": [
+      "Apricots Malatya",
+      "Dried apricots Turkey"
+    ]
+  },
+  {
+    "id": "45_tarihi_yapi",
+    "plate": "45",
+    "city": "Manisa",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Sardes Antik Kenti",
+    "hint": "Tarihte paranın ilk basıldığı Lidya uygarlığının başkenti.",
+    "search_queries": [
+      "Sardis",
+      "Temple of Artemis Sardis"
+    ]
+  },
+  {
+    "id": "45_doga",
+    "plate": "45",
+    "city": "Manisa",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Spil Dağı ve Kula Peribacaları",
+    "hint": "Genç volkan konileri ve doğal erozyonla oluşmuş peri bacaları.",
+    "search_queries": [
+      "Kula volcanic",
+      "Spil Dagi"
+    ]
+  },
+  {
+    "id": "45_yemek",
+    "plate": "45",
+    "city": "Manisa",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Mesir Macunu",
+    "hint": "41 çeşit baharattan oluşan asırlık şifalı geleneksel macun.",
+    "search_queries": [
+      "Mesir macunu",
+      "Manisa mesir"
+    ]
+  },
+  {
+    "id": "46_tarihi_yapi",
+    "plate": "46",
+    "city": "Kahramanmaraş",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Germenicia Mozaikleri / Taş Medrese",
+    "hint": "Roma mozaikleri ve tarihi kalesiyle öne çıkan kadim yerleşim.",
+    "search_queries": [
+      "Kahramanmaras Castle",
+      "Kahramanmaraş Kalesi"
+    ]
+  },
+  {
+    "id": "46_doga",
+    "plate": "46",
+    "city": "Kahramanmaraş",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Yedikuyular ve Başkonuş Yaylası",
+    "hint": "Sedir ve köknar ormanlarıyla kaplı serin Toros yaylası.",
+    "search_queries": [
+      "Baskonus Yaylasi",
+      "Kahramanmaras mountains"
+    ]
+  },
+  {
+    "id": "46_yemek",
+    "plate": "46",
+    "city": "Kahramanmaraş",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Maraş Dondurması",
+    "hint": "Keçi sütü ve yabani salep ile dövülerek yapılan kesme dondurma.",
+    "search_queries": [
+      "Maras dondurmasi",
+      "Turkish ice cream"
+    ]
+  },
+  {
+    "id": "47_tarihi_yapi",
+    "plate": "47",
+    "city": "Mardin",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Deyrulzafaran Manastırı / Eski Mardin",
+    "hint": "Sarı kalker taşından yapılmış teraslı evleri ve tarihi manastırlarıyla ünlü şehir.",
+    "search_queries": [
+      "Mardin old city",
+      "Deyrulzafaran Monastery"
+    ]
+  },
+  {
+    "id": "47_doga",
+    "plate": "47",
+    "city": "Mardin",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Dara Antik Kenti ve Beyazsu",
+    "hint": "Mezopotamya ovasına bakan kaya mezarları ve su sarnıçları.",
+    "search_queries": [
+      "Dara Mesopotamia",
+      "Dara Mardin"
+    ]
+  },
+  {
+    "id": "47_yemek",
+    "plate": "47",
+    "city": "Mardin",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Kaburga Dolması ve Sembusek",
+    "hint": "Taş fırında veya sacda pişirilen kapalı lahmacun benzeri hamur işi.",
+    "search_queries": [
+      "Sembusek",
+      "Mardin food"
+    ]
+  },
+  {
+    "id": "48_tarihi_yapi",
+    "plate": "48",
+    "city": "Muğla",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Bodrum Kalesi",
+    "hint": "Deniz kenarında yükselen, Sualtı Arkeoloji Müzesi'ne ev sahipliği yapan kale.",
+    "search_queries": [
+      "Bodrum Castle",
+      "Kaunos rock tombs"
+    ]
+  },
+  {
+    "id": "48_doga",
+    "plate": "48",
+    "city": "Muğla",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Ölüdeniz",
+    "hint": "Sakin turkuaz lagünü ve Babadağ manzarasıyla dünyaca ünlü koy.",
+    "search_queries": [
+      "Oludeniz",
+      "Ölüdeniz"
+    ]
+  },
+  {
+    "id": "48_yemek",
+    "plate": "48",
+    "city": "Muğla",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Çökertme Kebabı",
+    "hint": "Kibrit patates, yoğurt ve ince jülyen bonfileyle hazırlanan yemek.",
+    "search_queries": [
+      "Cokertme kebabi",
+      "Çökertme kebabı"
+    ]
+  },
+  {
+    "id": "49_tarihi_yapi",
+    "plate": "49",
+    "city": "Muş",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Murat Köprüsü",
+    "hint": "Murat Nehri üzerinde yer alan Selçuklu döneminden kalma çok gözlü köprü.",
+    "search_queries": [
+      "Murat Bridge Mus",
+      "Tarihi Murat Köprüsü"
+    ]
+  },
+  {
+    "id": "49_doga",
+    "plate": "49",
+    "city": "Muş",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Muş Ovası Laleleri",
+    "hint": "İlkbaharda ovayı kırmızıya boyayan endemik doğal laleler.",
+    "search_queries": [
+      "Tulips Mus",
+      "Muş Lalesi"
+    ]
+  },
+  {
+    "id": "49_yemek",
+    "plate": "49",
+    "city": "Muş",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Muş Köftesi",
+    "hint": "İnce bulgur dış harcının içine kavurma doldurularak yapılan içli köfte.",
+    "search_queries": [
+      "İçli köfte",
+      "Kibbeh",
+      "Kofte"
+    ]
+  },
+  {
+    "id": "50_tarihi_yapi",
+    "plate": "50",
+    "city": "Nevşehir",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Göreme Açık Hava Müzesi",
+    "hint": "Kayalara oyulmuş freskli kiliseleriyle UNESCO Dünya Mirası alanı.",
+    "search_queries": [
+      "Goreme Open Air Museum",
+      "Dark Church Goreme"
+    ]
+  },
+  {
+    "id": "50_doga",
+    "plate": "50",
+    "city": "Nevşehir",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Kapadokya Peri Bacaları",
+    "hint": "Volkanik tüflerin aşınmasıyla oluşan masalsı kaya bacaları.",
+    "search_queries": [
+      "Cappadocia fairy chimneys",
+      "Cappadocia"
+    ]
+  },
+  {
+    "id": "50_yemek",
+    "plate": "50",
+    "city": "Nevşehir",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Testi Kebabı",
+    "hint": "Ağzı hamurla mühürlenen toprak testide pişirilip kırılarak sunulan yemek.",
+    "search_queries": [
+      "Testi kebabi",
+      "Pottery kebab Cappadocia"
+    ]
+  },
+  {
+    "id": "51_tarihi_yapi",
+    "plate": "51",
+    "city": "Niğde",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Gümüşler Manastırı",
+    "hint": "Gülümseyen Meryem Ana freskiyle ünlü kaya oyma manastır.",
+    "search_queries": [
+      "Gumusler Monastery",
+      "Gümüşler Manastırı"
+    ]
+  },
+  {
+    "id": "51_doga",
+    "plate": "51",
+    "city": "Niğde",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Aladağlar Milli Parkı",
+    "hint": "Sarp zirveleri ve buzul gölleriyle dağcılık tutkunlarının gözdesi.",
+    "search_queries": [
+      "Aladaglar",
+      "Aladağlar"
+    ]
+  },
+  {
+    "id": "51_yemek",
+    "plate": "51",
+    "city": "Niğde",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Niğde Gazozu / Tava",
+    "hint": "Kuşbaşı et, domates ve biberin taş fırında pişirilmesiyle yapılan yemek.",
+    "search_queries": [
+      "Nigde tava",
+      "Turkish lamb casserole"
+    ]
+  },
+  {
+    "id": "52_tarihi_yapi",
+    "plate": "52",
+    "city": "Ordu",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Kurul Kalesi",
+    "hint": "Ana Tanrıça Kibele heykelinin bulunduğu antik kaya yerleşimi.",
+    "search_queries": [
+      "Kurul Castle Ordu",
+      "Yason Burnu"
+    ]
+  },
+  {
+    "id": "52_doga",
+    "plate": "52",
+    "city": "Ordu",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Boztepe ve Perşembe Yaylası",
+    "hint": "Menderesleriyle ünlü yayla ve Karadeniz manzaralı seyir tepesi.",
+    "search_queries": [
+      "Persembe Yaylasi",
+      "Ordu Boztepe"
+    ]
+  },
+  {
+    "id": "52_yemek",
+    "plate": "52",
+    "city": "Ordu",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Ordu Pidesi / Fındık",
+    "hint": "Türkiye'nin en kaliteli fındıklarının yetiştiği bereketli lezzet.",
+    "search_queries": [
+      "Hazelnuts Ordu",
+      "Black Sea pide"
+    ]
+  },
+  {
+    "id": "53_tarihi_yapi",
+    "plate": "53",
+    "city": "Rize",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Zil Kale",
+    "hint": "Fırtına Vadisi'nde sarp bir kayanın tepesine kurulmuş Orta Çağ kalesi.",
+    "search_queries": [
+      "Zilkale",
+      "Zil Kale"
+    ]
+  },
+  {
+    "id": "53_doga",
+    "plate": "53",
+    "city": "Rize",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Ayder Yaylası",
+    "hint": "Kaçkar Dağları eteklerinde sis bulutları üzerindeki yeşil yayla.",
+    "search_queries": [
+      "Ayder Yaylasi",
+      "Pokut Yaylası"
+    ]
+  },
+  {
+    "id": "53_yemek",
+    "plate": "53",
+    "city": "Rize",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Rize Çayı ve Kavurması",
+    "hint": "Yamaçlardaki yemyeşil bahçelerden toplanan taze demlenmiş çay.",
+    "search_queries": [
+      "Rize tea plantation",
+      "Turkish tea"
+    ]
+  },
+  {
+    "id": "54_tarihi_yapi",
+    "plate": "54",
+    "city": "Sakarya",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Justinianus Köprüsü (Beşköprü)",
+    "hint": "Bizans İmparatoru Justinianus tarafından yaptırılan 12 kemerli taş köprü.",
+    "search_queries": [
+      "Justinianus Bridge",
+      "Beşköprü Sakarya"
+    ]
+  },
+  {
+    "id": "54_doga",
+    "plate": "54",
+    "city": "Sakarya",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Sapanca Gölü",
+    "hint": "Kıyısındaki ormanlar ve dingin suyuyla bilinen tektonik göl.",
+    "search_queries": [
+      "Lake Sapanca",
+      "Sapanca Gölü"
+    ]
+  },
+  {
+    "id": "54_yemek",
+    "plate": "54",
+    "city": "Sakarya",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Islama Köfte",
+    "hint": "Kemik suyu ve toz biberli sosa batırılıp kızartılan ekmekle sunulan köfte.",
+    "search_queries": [
+      "Islama kofte",
+      "Adapazarı ıslama köfte"
+    ]
+  },
+  {
+    "id": "55_tarihi_yapi",
+    "plate": "55",
+    "city": "Samsun",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Bandırma Vapuru Müzesi",
+    "hint": "19 Mayıs 1919'da Kurtuluş Mücadelesi'ni başlatan tarihi geminin replikası.",
+    "search_queries": [
+      "Bandirma Vapuru",
+      "Onur Aniti Samsun"
+    ]
+  },
+  {
+    "id": "55_doga",
+    "plate": "55",
+    "city": "Samsun",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Kızılırmak Deltası Kuş Cenneti",
+    "hint": "Yüzlerce kuş türüne ve yılkı atlarına ev sahipliği yapan sulak alan.",
+    "search_queries": [
+      "Kizilirmak Delta",
+      "Sahinkaya Canyon"
+    ]
+  },
+  {
+    "id": "55_yemek",
+    "plate": "55",
+    "city": "Samsun",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Bafra Pidesi",
+    "hint": "Çıtır ve kapalı hamuruyla yapılan ince uzun Karadeniz pidesi.",
+    "search_queries": [
+      "Bafra pidesi",
+      "Samsun pidesi"
+    ]
+  },
+  {
+    "id": "56_tarihi_yapi",
+    "plate": "56",
+    "city": "Siirt",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Ulu Camii (Siirt)",
+    "hint": "Selçuklu döneminden kalma çini işlemeli minaresiyle ünlü tarihi cami.",
+    "search_queries": [
+      "Siirt Ulu Cami",
+      "Veysel Karani Tomb"
+    ]
+  },
+  {
+    "id": "56_doga",
+    "plate": "56",
+    "city": "Siirt",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Botan Vadisi",
+    "hint": "Derin nehir kıvrımlarıyla seyir terasından izlenen etkileyici kanyon.",
+    "search_queries": [
+      "Botan Valley Siirt",
+      "Tillo Siirt"
+    ]
+  },
+  {
+    "id": "56_yemek",
+    "plate": "56",
+    "city": "Siirt",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Siirt Büryanı ve Perde Pilavı",
+    "hint": "Bademli hamur kılıfı içinde pişirilen keklik/tavuk etli özel pilav.",
+    "search_queries": [
+      "Perde pilavi",
+      "Perde pilavı"
+    ]
+  },
+  {
+    "id": "57_tarihi_yapi",
+    "plate": "57",
+    "city": "Sinop",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Tarihi Sinop Cezaevi",
+    "hint": "Deniz surlarının içinde yer alan, edebiyata konu olmuş tarihi kale ve cezaevi.",
+    "search_queries": [
+      "Sinop Fortress Prison",
+      "Sinop Castle"
+    ]
+  },
+  {
+    "id": "57_doga",
+    "plate": "57",
+    "city": "Sinop",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Hamsilos Koyu",
+    "hint": "Karadeniz kıyısında fiyordu andıran doğal dar koy.",
+    "search_queries": [
+      "Hamsilos Bay",
+      "Erfelek Tatlica Waterfalls"
+    ]
+  },
+  {
+    "id": "57_yemek",
+    "plate": "57",
+    "city": "Sinop",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Sinop Mantısı",
+    "hint": "Yoğurt ve üzerine bol dövülmüş ceviz dökülerek servis edilen mantı.",
+    "search_queries": [
+      "Sinop mantisi",
+      "Turkish manti walnut"
+    ]
+  },
+  {
+    "id": "58_tarihi_yapi",
+    "plate": "58",
+    "city": "Sivas",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Divriği Ulu Camii ve Darüşşifası",
+    "hint": "Taş kapısındaki üç boyutlu kabartmalarıyla UNESCO Dünya Mirası şaheseri.",
+    "search_queries": [
+      "Divrigi Great Mosque",
+      "Divriği Ulu Camii"
+    ]
+  },
+  {
+    "id": "58_doga",
+    "plate": "58",
+    "city": "Sivas",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Gökpınar Gölü",
+    "hint": "Turkuaz berraklığında, dibindeki taşların net görüldüğü doğal göl.",
+    "search_queries": [
+      "Gokpinar Lake",
+      "Gökpınar Gölü"
+    ]
+  },
+  {
+    "id": "58_yemek",
+    "plate": "58",
+    "city": "Sivas",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Sivas Köftesi",
+    "hint": "Sadece et ve tuzla yoğrulup dinlendirilerek ızgarada pişirilen köfte.",
+    "search_queries": [
+      "Turkish kofte",
+      "Köfte",
+      "Grilled meatballs"
+    ]
+  },
+  {
+    "id": "59_tarihi_yapi",
+    "plate": "59",
+    "city": "Tekirdağ",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Rüstem Paşa Camii",
+    "hint": "Mimar Sinan'ın Trakya'daki zarif külliyelerinden biri.",
+    "search_queries": [
+      "Rustem Pasha Mosque Tekirdag",
+      "Rakoczi Museum Tekirdag"
+    ]
+  },
+  {
+    "id": "59_doga",
+    "plate": "59",
+    "city": "Tekirdağ",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Uçmakdere",
+    "hint": "Marmara Denizi'ne dik inen yamaçları ve yamaç paraşütüyle ünlü köy.",
+    "search_queries": [
+      "Ucmakdere",
+      "Uçmakdere Tekirdağ"
+    ]
+  },
+  {
+    "id": "59_yemek",
+    "plate": "59",
+    "city": "Tekirdağ",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Tekirdağ Köftesi",
+    "hint": "Acı biber sosu ve piyaz eşliğinde sunulan meşhur ince köfte.",
+    "search_queries": [
+      "Tekirdag koftesi",
+      "Tekirdağ köftesi"
+    ]
+  },
+  {
+    "id": "60_tarihi_yapi",
+    "plate": "60",
+    "city": "Tokat",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Gök Medrese / Taşhan",
+    "hint": "Anadolu Selçuklu çini sanatını yansıtan tarihi medrese.",
+    "search_queries": [
+      "Gok Medrese Tokat",
+      "Tokat Castle"
+    ]
+  },
+  {
+    "id": "60_doga",
+    "plate": "60",
+    "city": "Tokat",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Ballıca Mağarası",
+    "hint": "Soğan sarkıtlarıyla dünyadaki nadir mağaralardan biri.",
+    "search_queries": [
+      "Ballica Cave",
+      "Ballıca Mağarası"
+    ]
+  },
+  {
+    "id": "60_yemek",
+    "plate": "60",
+    "city": "Tokat",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Tokat Kebabı",
+    "hint": "Patlıcan, kuzu eti ve domatesin özel şişlerde asılarak pişirildiği kebap.",
+    "search_queries": [
+      "Tokat kebabi",
+      "Tokat kebabı"
+    ]
+  },
+  {
+    "id": "61_tarihi_yapi",
+    "plate": "61",
+    "city": "Trabzon",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Sümela Manastırı",
+    "hint": "Altındere Vadisi'nde sarp kayalığa yapışmış gibi duran tarihi manastır.",
+    "search_queries": [
+      "Sumela Monastery",
+      "Sümela Manastırı"
+    ]
+  },
+  {
+    "id": "61_doga",
+    "plate": "61",
+    "city": "Trabzon",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Uzungöl",
+    "hint": "Dik yamaçlı dağların arasında heyelan sonucu oluşmuş göl.",
+    "search_queries": [
+      "Uzungol",
+      "Uzungöl"
+    ]
+  },
+  {
+    "id": "61_yemek",
+    "plate": "61",
+    "city": "Trabzon",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Akçaabat Köftesi",
+    "hint": "Sarımsak ve bayat ekmekle yoğrulup kömür ateşinde pişirilen köfte.",
+    "search_queries": [
+      "Akcaabat koftesi",
+      "Akçaabat köftesi"
+    ]
+  },
+  {
+    "id": "62_tarihi_yapi",
+    "plate": "62",
+    "city": "Tunceli",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Pertek Kalesi",
+    "hint": "Keban Baraj Gölü ortasındaki bir adacık üzerinde yükselen tarihi kale.",
+    "search_queries": [
+      "Pertek Castle",
+      "Pertek Kalesi"
+    ]
+  },
+  {
+    "id": "62_doga",
+    "plate": "62",
+    "city": "Tunceli",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Munzur Vadisi Milli Parkı",
+    "hint": "Buz gibi kaynak suları ve sarp kanyonlarıyla ünlü milli park.",
+    "search_queries": [
+      "Munzur Valley",
+      "Munzur Gözeleri"
+    ]
+  },
+  {
+    "id": "62_yemek",
+    "plate": "62",
+    "city": "Tunceli",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Şir (Babiko)",
+    "hint": "Sarımsaklı yoğurt ve kızgın tereyağıyla servis edilen geleneksel hamur.",
+    "search_queries": [
+      "Tunceli food",
+      "Turkish bread garlic butter"
+    ]
+  },
+  {
+    "id": "63_tarihi_yapi",
+    "plate": "63",
+    "city": "Şanlıurfa",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Göbeklitepe",
+    "hint": "12 bin yıllık geçmişiyle bilinen en eski anıtsal tapınak kompleksi.",
+    "search_queries": [
+      "Gobekli Tepe",
+      "Göbeklitepe"
+    ]
+  },
+  {
+    "id": "63_doga",
+    "plate": "63",
+    "city": "Şanlıurfa",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Balıklıgöl",
+    "hint": "Kutsal kabul edilen sazan balıklarıyla dolu tarihi su havuzu.",
+    "search_queries": [
+      "Balikligol",
+      "Balıklıgöl"
+    ]
+  },
+  {
+    "id": "63_yemek",
+    "plate": "63",
+    "city": "Şanlıurfa",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Urfa Kebap ve Şıllık Tatlısı",
+    "hint": "Acısız zırh kıyması kebabı ve cevizli şerbetli krep tatlısı.",
+    "search_queries": [
+      "Urfa kebab",
+      "Ciğer kebabı Şanlıurfa"
+    ]
+  },
+  {
+    "id": "64_tarihi_yapi",
+    "plate": "64",
+    "city": "Uşak",
+    "region": "Ege",
+    "category": "tarihi_yapi",
+    "name": "Clandras Köprüsü",
+    "hint": "Banaz Çayı üzerinde yer alan Frig döneminden kalma kemerli köprü.",
+    "search_queries": [
+      "Clandras Bridge",
+      "Clandras Köprüsü"
+    ]
+  },
+  {
+    "id": "64_doga",
+    "plate": "64",
+    "city": "Uşak",
+    "region": "Ege",
+    "category": "doga",
+    "name": "Ulubey Kanyonu",
+    "hint": "Dünyanın en büyük ikinci kanyon sistemi olarak bilinen vadi.",
+    "search_queries": [
+      "Ulubey Canyon",
+      "Ulubey Kanyonu"
+    ]
+  },
+  {
+    "id": "64_yemek",
+    "plate": "64",
+    "city": "Uşak",
+    "region": "Ege",
+    "category": "yemek",
+    "name": "Tarhana Çorbası (Uşak)",
+    "hint": "Yoğurt, biber ve sebzelerin fermente edilip kurutulmasıyla yapılan çorba.",
+    "search_queries": [
+      "Tarhana soup",
+      "Tarhana çorbası"
+    ]
+  },
+  {
+    "id": "65_tarihi_yapi",
+    "plate": "65",
+    "city": "Van",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Akdamar Kilisesi",
+    "hint": "Van Gölü'ndeki ada üzerinde taş kabartmalarıyla ünlü tarihi kilise.",
+    "search_queries": [
+      "Akdamar Island",
+      "Akdamar Church"
+    ]
+  },
+  {
+    "id": "65_doga",
+    "plate": "65",
+    "city": "Van",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Van Gölü ve Muradiye Şelalesi",
+    "hint": "Türkiye'nin en büyük sodalı gölü ve etrafındaki volkanik dağlar.",
+    "search_queries": [
+      "Lake Van",
+      "Muradiye Waterfall"
+    ]
+  },
+  {
+    "id": "65_yemek",
+    "plate": "65",
+    "city": "Van",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Van Kahvaltısı",
+    "hint": "Otlu peynir, murtuğa ve kavut içeren zengin yöresel kahvaltı sofrası.",
+    "search_queries": [
+      "Van breakfast",
+      "Van kahvaltısı"
+    ]
+  },
+  {
+    "id": "66_tarihi_yapi",
+    "plate": "66",
+    "city": "Yozgat",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Sarıkaya Roma Hamamı",
+    "hint": "2000 yıldır şifalı sıcak suyu akmaya devam eden Kral Kızı hamamı.",
+    "search_queries": [
+      "Sarikaya Roman Bath",
+      "Yozgat Clock Tower"
+    ]
+  },
+  {
+    "id": "66_doga",
+    "plate": "66",
+    "city": "Yozgat",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Çamlık Milli Parkı",
+    "hint": "Türkiye'nin ilan edilen ilk milli parkı olan karaçam ormanı.",
+    "search_queries": [
+      "Yozgat Camlik",
+      "Kazankaya Canyon"
+    ]
+  },
+  {
+    "id": "66_yemek",
+    "plate": "66",
+    "city": "Yozgat",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Testi Kebabı (Yozgat)",
+    "hint": "Çömlek testide sebze ve etin ağır ateşte pişirildiği yemek.",
+    "search_queries": [
+      "Testi kebabi",
+      "Turkish pottery kebab"
+    ]
+  },
+  {
+    "id": "67_tarihi_yapi",
+    "plate": "67",
+    "city": "Zonguldak",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Filyos Antik Kenti (Tios)",
+    "hint": "Karadeniz kıyısında antik liman ve kale kalıntıları.",
+    "search_queries": [
+      "Filyos castle",
+      "Zonguldak Mining Museum"
+    ]
+  },
+  {
+    "id": "67_doga",
+    "plate": "67",
+    "city": "Zonguldak",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Gökgöl Mağarası",
+    "hint": "İçinden yeraltı deresi akan renkli ışıklandırılmış fosil mağara.",
+    "search_queries": [
+      "Gokgol Cave",
+      "Gökgöl Mağarası"
+    ]
+  },
+  {
+    "id": "67_yemek",
+    "plate": "67",
+    "city": "Zonguldak",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Devrek Bastonu ve Cevizli Kömeci",
+    "hint": "Ceviz ve tereyağıyla kat kat açılan geleneksel ekmek.",
+    "search_queries": [
+      "Cevizli ekmek",
+      "Turkish walnut bread"
+    ]
+  },
+  {
+    "id": "68_tarihi_yapi",
+    "plate": "68",
+    "city": "Aksaray",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Sultanhanı Kervansarayı",
+    "hint": "Anadolu Selçuklu döneminin en büyük ve görkemli kervansarayı.",
+    "search_queries": [
+      "Sultanhani",
+      "Sultanhanı Kervansarayı"
+    ]
+  },
+  {
+    "id": "68_doga",
+    "plate": "68",
+    "city": "Aksaray",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Ihlara Vadisi",
+    "hint": "Melendiz Çayı'nın oluşturduğu, kaya kiliseleriyle dolu yeşil kanyon.",
+    "search_queries": [
+      "Ihlara Valley",
+      "Ihlara Vadisi"
+    ]
+  },
+  {
+    "id": "68_yemek",
+    "plate": "68",
+    "city": "Aksaray",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Aksaray Tava",
+    "hint": "Kuşbaşı et ve sebzelerin taş fırında sosuyla pişirildiği yemek.",
+    "search_queries": [
+      "Turkish lamb stew",
+      "Aksaray tava"
+    ]
+  },
+  {
+    "id": "69_tarihi_yapi",
+    "plate": "69",
+    "city": "Bayburt",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Bayburt Kalesi (Çinimaçin)",
+    "hint": "Çoruh Nehri kıyısında yükselen tarihi Çinimaçin kalesi.",
+    "search_queries": [
+      "Bayburt Castle",
+      "Bayburt Kalesi"
+    ]
+  },
+  {
+    "id": "69_doga",
+    "plate": "69",
+    "city": "Bayburt",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Baksı Müzesi ve Soğanlı Geçidi",
+    "hint": "Yüksek dağlar arasında geleneksel ve çağdaş sanatı buluşturan tepe.",
+    "search_queries": [
+      "Baksi Museum",
+      "Bayburt mountains"
+    ]
+  },
+  {
+    "id": "69_yemek",
+    "plate": "69",
+    "city": "Bayburt",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Lor Dolması",
+    "hint": "Pazı yaprağına lor peyniri ve bulgur sarılarak fırınlanan yemek.",
+    "search_queries": [
+      "Sarma",
+      "Dolma",
+      "Stuffed leaves"
+    ]
+  },
+  {
+    "id": "70_tarihi_yapi",
+    "plate": "70",
+    "city": "Karaman",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Taşkale Tahıl Ambarları",
+    "hint": "Dik bir kaya kütlesine oyulmuş yüzlerce yıllık doğal tahıl depoları.",
+    "search_queries": [
+      "Taskale Karaman",
+      "Karaman Castle"
+    ]
+  },
+  {
+    "id": "70_doga",
+    "plate": "70",
+    "city": "Karaman",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "İncesu Mağarası (Karaman)",
+    "hint": "Damlataşları ve yeraltı göletleriyle ünlü uzun mağara.",
+    "search_queries": [
+      "Karaman Incesu Cave",
+      "Ermenek Canyon"
+    ]
+  },
+  {
+    "id": "70_yemek",
+    "plate": "70",
+    "city": "Karaman",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Arabaşı Çorbası",
+    "hint": "Kesilmiş hamur parçalarının acılı tavuk suyu çorbasıyla yutulduğu yemek.",
+    "search_queries": [
+      "Arabasi",
+      "Arabaşı çorbası"
+    ]
+  },
+  {
+    "id": "71_tarihi_yapi",
+    "plate": "71",
+    "city": "Kırıkkale",
+    "region": "İç Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Çeşnigir Köprüsü",
+    "hint": "Kızılırmak üzerinde Selçuklu döneminden kalma tarihi taş köprü.",
+    "search_queries": [
+      "Cesnigir Bridge",
+      "Çeşnigir Köprüsü"
+    ]
+  },
+  {
+    "id": "71_doga",
+    "plate": "71",
+    "city": "Kırıkkale",
+    "region": "İç Anadolu",
+    "category": "doga",
+    "name": "Sulu Mağara ve Karaahmetli",
+    "hint": "Kızılırmak kıyısında tabiat parkı ve tarihi mağara galerileri.",
+    "search_queries": [
+      "Keskin Kirikkale",
+      "Kizilirmak Kirikkale"
+    ]
+  },
+  {
+    "id": "71_yemek",
+    "plate": "71",
+    "city": "Kırıkkale",
+    "region": "İç Anadolu",
+    "category": "yemek",
+    "name": "Keskin Tava",
+    "hint": "Kuzu pirzola ve domatesin özel tavada fırınlandığı yöresel lezzet.",
+    "search_queries": [
+      "Turkish lamb pan",
+      "Keskin tava"
+    ]
+  },
+  {
+    "id": "72_tarihi_yapi",
+    "plate": "72",
+    "city": "Batman",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Hasankeyf",
+    "hint": "Dicle kıyısında binlerce yıllık kaya mağaraları ve tarihi kalıntılar.",
+    "search_queries": [
+      "Hasankeyf",
+      "Hasankeyf Castle"
+    ]
+  },
+  {
+    "id": "72_doga",
+    "plate": "72",
+    "city": "Batman",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Malabadi Köprüsü",
+    "hint": "Dünyanın en geniş taş kemerli tarihi köprülerinden biri.",
+    "search_queries": [
+      "Malabadi Bridge",
+      "Malabadi Köprüsü"
+    ]
+  },
+  {
+    "id": "72_yemek",
+    "plate": "72",
+    "city": "Batman",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Şam Böreği (Batman)",
+    "hint": "Sacda pişirilen kıymalı, maydanozlu yarım ay şeklinde börek.",
+    "search_queries": [
+      "Samborek",
+      "Turkish fried meat pastry"
+    ]
+  },
+  {
+    "id": "73_tarihi_yapi",
+    "plate": "73",
+    "city": "Şırnak",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Cizre Kalesi / Kırmızı Medrese",
+    "hint": "Dicle kıyısında yer alan tarihi medrese ve sur kalıntıları.",
+    "search_queries": [
+      "Cizre Ulu Mosque",
+      "Kırmızı Medrese Cizre"
+    ]
+  },
+  {
+    "id": "73_doga",
+    "plate": "73",
+    "city": "Şırnak",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Cudi Dağı",
+    "hint": "Kadim efsanelere konu olmuş görkemli dağ silsilesi.",
+    "search_queries": [
+      "Mount Judi",
+      "Cudi Dağı"
+    ]
+  },
+  {
+    "id": "73_yemek",
+    "plate": "73",
+    "city": "Şırnak",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Kutlık (İçli Köfte)",
+    "hint": "Haşlanarak hazırlanan cevizli ve kıymalı geleneksel bulgur köftesi.",
+    "search_queries": [
+      "Icli kofte",
+      "İçli köfte"
+    ]
+  },
+  {
+    "id": "74_tarihi_yapi",
+    "plate": "74",
+    "city": "Bartın",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Amasra Kalesi",
+    "hint": "Karadeniz'e uzanan iki adayı birbirine bağlayan tarihi Ceneviz/Bizans kalesi.",
+    "search_queries": [
+      "Amasra Castle",
+      "Amasra"
+    ]
+  },
+  {
+    "id": "74_doga",
+    "plate": "74",
+    "city": "Bartın",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Güzelcehisar Lav Sütunları",
+    "hint": "80 milyon yıllık volkanik altıgen bazalt kaya sütunları.",
+    "search_queries": [
+      "Guzelcehisar Basalt Columns",
+      "Bartin Amasra coast"
+    ]
+  },
+  {
+    "id": "74_yemek",
+    "plate": "74",
+    "city": "Bartın",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Amasra Salatası",
+    "hint": "Yirmiden fazla taze yeşillik ve sebzenin süslenerek sunulduğu salata.",
+    "search_queries": [
+      "Amasra salad",
+      "Turkish seasonal salad"
+    ]
+  },
+  {
+    "id": "75_tarihi_yapi",
+    "plate": "75",
+    "city": "Ardahan",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Şeytan Kalesi",
+    "hint": "Üç tarafı uçurumla çevrili sarp bir kayalık üzerindeki Orta Çağ kalesi.",
+    "search_queries": [
+      "Seytan Kalesi Ardahan",
+      "Ardahan Castle"
+    ]
+  },
+  {
+    "id": "75_doga",
+    "plate": "75",
+    "city": "Ardahan",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Yalnızçam Yaylaları",
+    "hint": "Sarıçam ormanları ve yüksek rakımlı karlı yaylalar.",
+    "search_queries": [
+      "Yalnizcam Ardahan",
+      "Ardahan plateau"
+    ]
+  },
+  {
+    "id": "75_yemek",
+    "plate": "75",
+    "city": "Ardahan",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Ardahan Hıngeli",
+    "hint": "Etli veya patatesli olarak büyükçe kapatılıp haşlanan mantı.",
+    "search_queries": [
+      "Hinkel",
+      "Khinkali"
+    ]
+  },
+  {
+    "id": "76_tarihi_yapi",
+    "plate": "76",
+    "city": "Iğdır",
+    "region": "Doğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Harmandöven Kervansarayı",
+    "hint": "Selçuklu döneminden kalma kesme taşlı tarihi İpek Yolu durağı.",
+    "search_queries": [
+      "Ejder Kervansarayi",
+      "Igdir Monument"
+    ]
+  },
+  {
+    "id": "76_doga",
+    "plate": "76",
+    "city": "Iğdır",
+    "region": "Doğu Anadolu",
+    "category": "doga",
+    "name": "Gökkuşağı Tepeleri (Tuzluca)",
+    "hint": "Minerallerin oluşturduğu rengarenk çizgili doğal tepeler.",
+    "search_queries": [
+      "Tuzluca Rainbow Hills",
+      "Mount Ararat Igdir"
+    ]
+  },
+  {
+    "id": "76_yemek",
+    "plate": "76",
+    "city": "Iğdır",
+    "region": "Doğu Anadolu",
+    "category": "yemek",
+    "name": "Bozbaş",
+    "hint": "Nohut ve kuzu etinin safranlı/zerdeçallı suyunda pişen yemek.",
+    "search_queries": [
+      "Bozbash",
+      "Piti Azerbaijan"
+    ]
+  },
+  {
+    "id": "77_tarihi_yapi",
+    "plate": "77",
+    "city": "Yalova",
+    "region": "Marmara",
+    "category": "tarihi_yapi",
+    "name": "Yürüyen Köşk",
+    "hint": "Bir çınar ağacının dalı kesilmesin diye raylarla kaydırılan tarihi köşk.",
+    "search_queries": [
+      "Yuruyen Kosk",
+      "Yürüyen Köşk"
+    ]
+  },
+  {
+    "id": "77_doga",
+    "plate": "77",
+    "city": "Yalova",
+    "region": "Marmara",
+    "category": "doga",
+    "name": "Sudüşen Şelalesi",
+    "hint": "Termal ormanlarının içinde dökülen serin şelale ve vadi.",
+    "search_queries": [
+      "Sudusen Waterfall",
+      "Erikli Waterfall Yalova"
+    ]
+  },
+  {
+    "id": "77_yemek",
+    "plate": "77",
+    "city": "Yalova",
+    "region": "Marmara",
+    "category": "yemek",
+    "name": "Yalova Sütlüsü",
+    "hint": "Sütlü şerbetiyle hafifletilmiş fındıklı/cevizli özel baklava.",
+    "search_queries": [
+      "Turkish milk baklava",
+      "Sutlu nuriye"
+    ]
+  },
+  {
+    "id": "78_tarihi_yapi",
+    "plate": "78",
+    "city": "Karabük",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Safranbolu Tarihi Evleri",
+    "hint": "Cumbalı beyaz konaklarıyla UNESCO Dünya Mirası koruma kenti.",
+    "search_queries": [
+      "Safranbolu",
+      "Safranbolu houses"
+    ]
+  },
+  {
+    "id": "78_doga",
+    "plate": "78",
+    "city": "Karabük",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Kristal Teras (Tokatlı Kanyonu)",
+    "hint": "Derin kanyon üzerinde cam zeminli seyir terası ve su kemeri.",
+    "search_queries": [
+      "Tokatli Canyon Safranbolu",
+      "Incekaya Aqueduct"
+    ]
+  },
+  {
+    "id": "78_yemek",
+    "plate": "78",
+    "city": "Karabük",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Safranbolu Lokumu",
+    "hint": "Safran aromalı, az şekerli ve bol fıstıklı/fındıklı geleneksel lokum.",
+    "search_queries": [
+      "Turkish delight",
+      "Lokum"
+    ]
+  },
+  {
+    "id": "79_tarihi_yapi",
+    "plate": "79",
+    "city": "Kilis",
+    "region": "Güneydoğu Anadolu",
+    "category": "tarihi_yapi",
+    "name": "Ravanda Kalesi",
+    "hint": "Koni biçimli yüksek bir tepeye kurulmuş tarihi sınır kalesi.",
+    "search_queries": [
+      "Kilis",
+      "Kilis mosque",
+      "Kilis Turkey"
+    ]
+  },
+  {
+    "id": "79_doga",
+    "plate": "79",
+    "city": "Kilis",
+    "region": "Güneydoğu Anadolu",
+    "category": "doga",
+    "name": "Oylum Höyük ve Zeytinlikler",
+    "hint": "Binlerce yıllık anıt zeytin ağaçları ve antik höyük.",
+    "search_queries": [
+      "Oylum Hoyuk",
+      "Kilis olive groves"
+    ]
+  },
+  {
+    "id": "79_yemek",
+    "plate": "79",
+    "city": "Kilis",
+    "region": "Güneydoğu Anadolu",
+    "category": "yemek",
+    "name": "Kilis Tava",
+    "hint": "Tepsi altına ince patlıcan dizilip üzerine zırh kıyması basılan kebap.",
+    "search_queries": [
+      "Tepsi kebabı",
+      "Turkish kebab",
+      "Kebab"
+    ]
+  },
+  {
+    "id": "80_tarihi_yapi",
+    "plate": "80",
+    "city": "Osmaniye",
+    "region": "Akdeniz",
+    "category": "tarihi_yapi",
+    "name": "Karatepe-Aslantaş Açık Hava Müzesi",
+    "hint": "Hitit hiyeroglifleri ve taş kabartmalarıyla ünlü arkeopark.",
+    "search_queries": [
+      "Karatepe Aslantas",
+      "Kastabala"
+    ]
+  },
+  {
+    "id": "80_doga",
+    "plate": "80",
+    "city": "Osmaniye",
+    "region": "Akdeniz",
+    "category": "doga",
+    "name": "Karaçay Şelalesi",
+    "hint": "Amanos Dağları eteklerinde çam ormanları içindeki şelale.",
+    "search_queries": [
+      "Karacay Waterfall Osmaniye",
+      "Amanos Mountains"
+    ]
+  },
+  {
+    "id": "80_yemek",
+    "plate": "80",
+    "city": "Osmaniye",
+    "region": "Akdeniz",
+    "category": "yemek",
+    "name": "Osmaniye Yer Fıstığı",
+    "hint": "Türkiye üretiminin büyük kısmını karşılayan coğrafi işaretli fıstık.",
+    "search_queries": [
+      "Peanuts Osmaniye",
+      "Roasted peanuts"
+    ]
+  },
+  {
+    "id": "81_tarihi_yapi",
+    "plate": "81",
+    "city": "Düzce",
+    "region": "Karadeniz",
+    "category": "tarihi_yapi",
+    "name": "Prusias ad Hypium Antik Kenti",
+    "hint": "Batı Karadeniz'in ayakta kalmış en önemli Roma antik tiyatrosu.",
+    "search_queries": [
+      "Prusias ad Hypium",
+      "Konuralp Theatre"
+    ]
+  },
+  {
+    "id": "81_doga",
+    "plate": "81",
+    "city": "Düzce",
+    "region": "Karadeniz",
+    "category": "doga",
+    "name": "Samandere / Güzeldere Şelalesi",
+    "hint": "600 yıllık kayın ağaçlarının arasından dökülen anıt şelale.",
+    "search_queries": [
+      "Guzeldere Waterfall",
+      "Samandere Waterfall"
+    ]
+  },
+  {
+    "id": "81_yemek",
+    "plate": "81",
+    "city": "Düzce",
+    "region": "Karadeniz",
+    "category": "yemek",
+    "name": "Düzce Köftesi / Melengücceği Tatlısı",
+    "hint": "Manda kaymağı ve cevizle yapılan çıtır geleneksel tatlı.",
+    "search_queries": [
+      "Turkish sweet pastry",
+      "Duzce food"
+    ]
+  }
+]
